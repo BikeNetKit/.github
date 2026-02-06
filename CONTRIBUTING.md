@@ -46,6 +46,8 @@ great places to start.
 ### Prerequisites
 
 - Git
+- pre-commit
+- pytest
 
 ### Getting Started
 
