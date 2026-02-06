@@ -101,7 +101,7 @@ git checkout -b feature/your-feature-name
 
 ### Code Style
 
-- Use prettier and ruff for formatting (config included)
+- Use prettier and ruff for formatting via pre-commit ([config](https://github.com/BikeNetKit/.github/pre-commit-config.yaml) included)
 - Write self-documenting code with meaningful variable names
 
 ### Testing
