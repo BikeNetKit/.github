@@ -12,7 +12,7 @@ people like you that make BikeNetKit such a great toolkit.
 ## Code of Conduct
 
 This project and everyone participating in it is governed by our 
-[Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are 
+[Code of Conduct](https://github.com/BikeNetKit/.github/CODE_OF_CONDUCT.md). By participating, you are 
 expected to uphold this code.
 
 ## How Can I Contribute?
@@ -21,12 +21,12 @@ expected to uphold this code.
 
 Before creating bug reports, please check existing issues to avoid 
 duplicates. When you create a bug report, include as many details as 
-possible using our [bug report template](ISSUE_TEMPLATE/bug_report.md).
+possible using our [bug report template](https://github.com/BikeNetKit/.github/ISSUE_TEMPLATE/bug_report.md).
 
 ### 💡 Suggesting Features
 
 Feature requests are welcome! Please use our 
-[feature request template](ISSUE_TEMPLATE/feature_request.md).
+[feature request template](https://github.com/BikeNetKit/.github/ISSUE_TEMPLATE/feature_request.md).
 
 
 ### 📝 Improving Documentation
@@ -84,7 +84,7 @@ git checkout -b feature/your-feature-name
 
 2. Open a Pull Request against the `main` branch.
 
-3. Fill out the [PR template](PULL_REQUEST_TEMPLATE.md) completely.
+3. Fill out the [PR template](https://github.com/BikeNetKit/.github/PULL_REQUEST_TEMPLATE.md) completely.
 
 4. Wait for review. We aim to respond within 7 days.
 
