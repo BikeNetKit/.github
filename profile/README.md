@@ -9,7 +9,7 @@ People want to bike and do it safely! To make it happen, cities must provide wel
 `BikeNetKit` is aimed at urban planners as a decision support tool for various network planning tasks, or for proactive citizens to create a compelling vision for urban cycling in their city. Close the gaps in your city's bike network, connect its components, or build one from scratch! 
 
 ## 🤝 Contributing to the ecosystem
-We started developing `BikeNetKit` in 2026. Its components use a copyleft license, ensuring it will always stay free and reproducible. Development support by the geospatial community is very welcome! 👉 How to contribute
+We started developing `BikeNetKit` in 2026. Its components use a copyleft license, ensuring it will always stay free and reproducible. Development support by the community is very welcome! 👉 [How to contribute](../CONTRIBUTING.md)
 
 `BikeNetKit` is funded by the [Innovation Fund Denmark](https://innovationsfonden.dk/en) and the EU project [JUST STREETS](https://www.just-streets.eu).  
 Photo attribution: [2013-06-03 10.41.10 by Bikecopenhagen.dk](https://www.flickr.com/photos/bikecopenhagendk/10360140446/), [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.en)
