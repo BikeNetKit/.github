@@ -2,7 +2,7 @@
 ![Cycling infrastructure](splash1.jpg)
 People want to bike and do it safely! To make it happen, cities must provide well connected networks of protected bicycle infrastructure. Yet, politicians often lack the leadership to listen to their citizens, not building for cycling at all, or without a plan.
 
-## 🛠️ A toolkit to design and improve bike networks
+## 🛠️ The toolkit to design and improve bike networks
 `BikeNetKit` is our answer to this problem. Currently under development, this digital toolkit will compile state-of-the-art bicycle network planning algorithms that we developed at [NERDS](https://nerds.itu.dk/) since 2019, packaged as a Python software suite - all made with local cycling know-how in Copenhagen. The software will be open-source, free and easy to use.
 
 ## 🧑‍💻 User-friendly software for planners and advocates
