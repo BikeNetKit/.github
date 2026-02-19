@@ -1,6 +1,6 @@
 # Contributing to BikeNetKit
 
-First off, thank you for considering contributing to BikeNetKit! It's 
+First off, thank you for considering contributing to BikeNetKit! ❤️ It's 
 people like you that make BikeNetKit such a great toolkit.
 
 ## Table of Contents
@@ -16,6 +16,14 @@ This project and everyone participating in it is governed by our
 expected to uphold this code.
 
 ## How Can I Contribute?
+
+All types of contributions are encouraged and valued. See this page for different ways to help and details about how this project handles them. Please make sure to read the relevant section before making your contribution. It will make it a lot easier for us maintainers and smooth out the experience for all involved. The community looks forward to your contributions. 🎉
+
+> And if you like the project, but just don't have time to contribute, that's fine. There are other easy ways to support the project and show your appreciation, which we would also be very happy about:
+> - Star the project
+> - Post on social media about it
+> - Refer this project in your project's `README`
+> - Mention the project at local meetups and tell your friends/colleagues
 
 ### 🐛 Reporting Bugs
 
