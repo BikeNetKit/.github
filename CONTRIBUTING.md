@@ -76,9 +76,9 @@ git checkout -b feature/your-feature-name
 ### Testing
 
 Unit tests should be written for any new function that gets added to the project. Please add these tests to the /tests/test_functions.py file.
-Tests should follow the naming convention of test_name_of_function, where name_of_function is the name of the newly added fucntion.
+Tests should follow the naming convention of test_name_of_function, where name_of_function is the name of the newly added function.
 Ensure that the output of the function is what you expect, given a certain example input.
-For changes made to functions that already exist, make sure to check if the tests that alredy exist still pass without issues.
+For changes made to functions that already exist, make sure to check if the tests that already exist still pass without issues.
 It is good practice to run all tests in the test_functions.py file before submitting a Pull Request.
 
 
