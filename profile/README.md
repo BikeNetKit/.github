@@ -11,5 +11,17 @@ People want to bike and do it safely! To make it happen, cities must provide wel
 ## 🤝 Contributing to the ecosystem
 We started developing `BikeNetKit` in 2026. Its components use a copyleft license, ensuring it will always stay free and reproducible. Development support by the community is very welcome! 👉 [How to contribute](../CONTRIBUTING.md)
 
+## 🚧 Development status
+| Repository | Code | Latest release | Viz status |
+| ---------- | -------- | ------ | -------- |
+| [superblockify](https://github.com/BikeNetKit/superblockify) | Done | 1.0.2 | Backlog |
+| [GrowBikeNet](https://github.com/BikeNetKit/GrowBikeNet) | In development | 0.5.2 | Backlog |
+| [FixBikeNet](https://github.com/BikeNetKit/FixBikeNet) | In development | n/a | Backlog |
+| [LinkBikeNet](https://github.com/BikeNetKit/LinkBikeNet) | Backlog | n/a | Backlog |
+| [BikeDNA](https://github.com/BikeNetKit/BikeDNA) | Backlog | n/a | Backlog |
+| [LoopBikeNet](https://github.com/BikeNetKit/LoopBikeNet) | Backlog | n/a | Backlog |
+
+
+## Credits
 `BikeNetKit` is funded by the [Innovation Fund Denmark](https://innovationsfonden.dk/en) and the EU project [JUST STREETS](https://www.just-streets.eu).  
 Photo attribution: [2013-06-03 10.41.10 by Bikecopenhagen.dk](https://www.flickr.com/photos/bikecopenhagendk/10360140446/), [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.en)
