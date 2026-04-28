@@ -12,14 +12,14 @@ People want to bike and do it safely! To make it happen, cities must provide wel
 We started developing `BikeNetKit` in 2026. Its components use a copyleft license, ensuring it will always stay free and reproducible. Development support by the community is very welcome! 👉 [How to contribute](../CONTRIBUTING.md)
 
 ## 🚧 Development status
-| Repository | Code | Latest release | Viz status |
-| ---------- | -------- | ------ | -------- |
-| [superblockify](https://github.com/BikeNetKit/superblockify) | Done | 1.0.2 | Backlog |
-| [GrowBikeNet](https://github.com/BikeNetKit/GrowBikeNet) | In development | 0.5.2 | Backlog |
-| [FixBikeNet](https://github.com/BikeNetKit/FixBikeNet) | In development | n/a | Backlog |
-| [LinkBikeNet](https://github.com/BikeNetKit/LinkBikeNet) | Backlog | n/a | Backlog |
-| [BikeDNA](https://github.com/BikeNetKit/BikeDNA) | Backlog | n/a | Backlog |
-| [LoopBikeNet](https://github.com/BikeNetKit/LoopBikeNet) | Backlog | n/a | Backlog |
+| Repository | Code | Last release |
+| ---------- | -------- | ------ | 
+| [superblockify](https://github.com/BikeNetKit/superblockify) | Done | 1.0.2 | 
+| [GrowBikeNet](https://github.com/BikeNetKit/GrowBikeNet) | In development | 0.6.0 | 
+| [FixBikeNet](https://github.com/BikeNetKit/FixBikeNet) | In development | n/a | 
+| [LinkBikeNet](https://github.com/BikeNetKit/LinkBikeNet) | Backlog | n/a | 
+| [BikeDNA](https://github.com/BikeNetKit/BikeDNA) | Backlog | n/a | 
+| [LoopBikeNet](https://github.com/BikeNetKit/LoopBikeNet) | Backlog | n/a | 
 
 
 ## Credits
