@@ -3,32 +3,32 @@
 Follow the steps below in order to make a new release in a BikeNetKit repo with package PACKAGENAME.
 
 ## Preliminaries
-- [ ] all tested, commited, and merged on main
+- [ ] All tested, commited, and merged on main
 
 ## Versioning pip
 - [ ] Decide on a new version number X.Y.Z using [semantic versioning](https://semver.org).
-- [ ] open releaseXYZ branch
-- [ ] pyproject.toml update version
-- [ ] PACKAGENAME/_version.py update version
-- [ ] .release-please-manifest.json update version
-- [ ] docs/conf.py update version
-- [ ] update docs/changelog.md 
-- [ ] update README.md
-- [ ] merge, during pull request set autorelease:tagged
+- [ ] Open releaseXYZ branch
+- [ ] Update version in pyproject.toml 
+- [ ] Update version in PACKAGENAME/_version.py
+- [ ] Update version in .release-please-manifest.json
+- [ ] Update version in docs/conf.py
+- [ ] Update docs/changelog.md 
+- [ ] Update README.md
+- [ ] Merge, during pull request set autorelease:tagged
 - [ ] Check that the new version was updated at https://pypi.org/project/PACKAGENAME/
 
 ## Versioning Github
-- [ ] click Releases
+- [ ] Click `Releases`
 - [ ] Draft a new release
 - [ ] Tag+Release title: Select tag with new version (Target: main)
 - [ ] Release notes: Copy-paste from changelog.md
 - [ ] Save draft
-- [ ] click Release: See draft. Edit. Publish release.
-- [ ] .github update last release version in development table
+- [ ] Click `Release`: Check draft. Edit. Click `Publish release`.
+- [ ] Update last release version in development table of the [.github profile README](https://github.com/BikeNetKit/.github/blob/main/profile/README.md)
 
 ## Conda forge
 TBD
 
 ## Afterwards
-- [ ] If package is in use, `pip PACKAGENAME --upgrade` or `pixi upgrade PACKAGENAME`
+- [ ] If package is in use, run `pip PACKAGENAME --upgrade` or `pixi upgrade PACKAGENAME`
 - [ ] Eventually: Announce / Newsletter / etc.
