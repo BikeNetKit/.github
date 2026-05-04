@@ -14,7 +14,7 @@ Follow the steps below in order to make a new release in a BikeNetKit repo with 
 - [ ] Update version in docs/conf.py
 - [ ] Update docs/changelog.md 
 - [ ] Update README.md
-- [ ] Merge, during pull request set autorelease:tagged
+- [ ] Merge, during pull request set Labels > autorelease:tagged
 - [ ] Check that the new version was updated at https://pypi.org/project/PACKAGENAME/
 
 ## Versioning Github
