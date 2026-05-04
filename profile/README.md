@@ -15,7 +15,7 @@ We started developing `BikeNetKit` in 2026. Its components use a copyleft licens
 | Repository | Code | Last release |
 | ---------- | -------- | ------ | 
 | [superblockify](https://github.com/BikeNetKit/superblockify) | Done | 1.0.2 | 
-| [GrowBikeNet](https://github.com/BikeNetKit/GrowBikeNet) | In development | 0.6.0 | 
+| [GrowBikeNet](https://github.com/BikeNetKit/GrowBikeNet) | In development | 0.7.0 | 
 | [FixBikeNet](https://github.com/BikeNetKit/FixBikeNet) | In development | n/a | 
 | [LinkBikeNet](https://github.com/BikeNetKit/LinkBikeNet) | Backlog | n/a | 
 | [BikeDNA](https://github.com/BikeNetKit/BikeDNA) | Backlog | n/a | 
