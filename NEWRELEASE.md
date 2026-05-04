@@ -23,7 +23,7 @@ Follow the steps below in order to make a new release in a BikeNetKit repo with 
 - [ ] Tag+Release title: Select tag with new version (Target: main)
 - [ ] Release notes: Copy-paste from changelog.md
 - [ ] Save draft
-- [ ] Click `Release`: Check draft. Edit. Click `Publish release`.
+- [ ] Click `Releases`: Check draft. Edit. Click `Publish release`.
 - [ ] Update last release version in development table of the [.github profile README](https://github.com/BikeNetKit/.github/blob/main/profile/README.md)
 
 ## Conda forge
