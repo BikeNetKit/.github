@@ -12,6 +12,7 @@ Follow the steps below in order to make a new release in a BikeNetKit repo with 
 - [ ] Update version in PACKAGENAME/_version.py
 - [ ] Update version in .release-please-manifest.json
 - [ ] Update version in docs/conf.py
+- [ ] Update version and release date in CITATION.cff
 - [ ] Update docs/changelog.md 
 - [ ] Update README.md
 - [ ] Merge, during pull request set Labels > autorelease:tagged
