@@ -8,7 +8,6 @@ Follow the steps below in order to make a new release in a BikeNetKit repo with 
 ## Versioning pip
 - [ ] Decide on a new version number X.Y.Z using [semantic versioning](https://semver.org).
 - [ ] Open releaseXYZ branch
-- [ ] Update version in pyproject.toml 
 - [ ] Update version in PACKAGENAME/_version.py
 - [ ] Update version in .release-please-manifest.json
 - [ ] Update version in docs/conf.py
