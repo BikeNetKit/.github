@@ -12,11 +12,13 @@ People want to bike and do it safely! To make it happen, cities must provide wel
 We started developing `BikeNetKit` in 2026. Its components use a copyleft license, ensuring it will always stay free and reproducible. Development support by the community is very welcome! 👉 [How to contribute](../CONTRIBUTING.md)
 
 ## 🚧 Development status
-| Repository | Code | Last release |
+To fulfil our 2026 grant deliverables, the below tools will be at least in "minimum viable product" form and packaged by 2026-12-31. By then we will also have an interactive visualization platform running at [bikenetkit.org](https://bikenetkit.org/). We intend to develop and maintain `BikeNetKit` beyond 2026.
+
+| Tool | Code | Last release |
 | ---------- | -------- | ------ | 
 | [superblockify](https://github.com/BikeNetKit/superblockify) | Done | 1.0.2 | 
 | [GrowBikeNet](https://github.com/BikeNetKit/GrowBikeNet) | In development | 0.7.1 | 
-| [FixBikeNet](https://github.com/BikeNetKit/FixBikeNet) | In development | n/a | 
+| [FixBikeNet](https://github.com/BikeNetKit/FixBikeNet) | In development | 0.5.0 | 
 | [LinkBikeNet](https://github.com/BikeNetKit/LinkBikeNet) | Backlog | n/a | 
 | [BikeDNA](https://github.com/BikeNetKit/BikeDNA) | Backlog | n/a | 
 | [LoopBikeNet](https://github.com/BikeNetKit/LoopBikeNet) | Backlog | n/a | 
