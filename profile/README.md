@@ -20,8 +20,8 @@ To fulfil our 2026 grant deliverables, the below tools will be at least in "mini
 | [GrowBikeNet](https://github.com/BikeNetKit/GrowBikeNet) | In development | 0.7.1 | 
 | [FixBikeNet](https://github.com/BikeNetKit/FixBikeNet) | In development | 0.5.0 | 
 | [LinkBikeNet](https://github.com/BikeNetKit/LinkBikeNet) | Backlog | n/a | 
-| [BikeDNA](https://github.com/BikeNetKit/BikeDNA) | Backlog | n/a | 
 | [LoopBikeNet](https://github.com/BikeNetKit/LoopBikeNet) | Backlog | n/a | 
+| [BikeNetLib](https://github.com/BikeNetKit/BikeNetLib) | In development | n/a | 
 
 
 ## Credits
