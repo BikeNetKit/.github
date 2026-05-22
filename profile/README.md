@@ -14,14 +14,14 @@ We started developing `BikeNetKit` in 2026. It uses a copyleft license, ensuring
 ## 🚧 Development status
 To fulfil our 2026 grant deliverables, the below tools will be at least in "minimum viable product" form and packaged by 2026-12-31. By then we will also have an interactive visualization platform running at [bikenetkit.org](https://bikenetkit.org/). We intend to develop and maintain `BikeNetKit` beyond 2026.
 
-| Tool | Code | Last release |
-| ---------- | -------- | ------ | 
-| [superblockify](https://github.com/BikeNetKit/superblockify) | Done | 1.0.2 | 
-| [GrowBikeNet](https://github.com/BikeNetKit/GrowBikeNet) | In development | 0.7.1 | 
-| [FixBikeNet](https://github.com/BikeNetKit/FixBikeNet) | In development | 0.5.0 | 
-| [LinkBikeNet](https://github.com/BikeNetKit/LinkBikeNet) | Backlog | n/a | 
-| [LoopBikeNet](https://github.com/BikeNetKit/LoopBikeNet) | Backlog | n/a | 
-| [BikeNetLib](https://github.com/BikeNetKit/BikeNetLib) | In development | n/a | 
+| Tool | Status | Version |
+| ---------- | -------- | :------: | 
+| [superblockify](https://github.com/BikeNetKit/superblockify) | ✅ Done | 1.0.2 | 
+| [GrowBikeNet](https://github.com/BikeNetKit/GrowBikeNet) | 🚧 In progress | 0.7.1 | 
+| [FixBikeNet](https://github.com/BikeNetKit/FixBikeNet) | 🚧 In progress | 0.5.0 | 
+| [LinkBikeNet](https://github.com/BikeNetKit/LinkBikeNet) | 🚧 In progress | n/a | 
+| [LoopBikeNet](https://github.com/BikeNetKit/LoopBikeNet) | ⏳ Planned | n/a | 
+| [BikeNetLib](https://github.com/BikeNetKit/BikeNetLib) | 🚧 In progress | 0.5.0 | 
 
 
 ## Credits
