@@ -1,9 +1,9 @@
 ---
-name: Documentation  
-about: Suggest updates or additions to documentation  
+name: 'Documentation'  
+about: 'Suggest updates or additions to documentation'  
 title: "[DOCS] "  
 labels: 'documentation'  
-assignees: ''  
+
 ---
 
 ### Documentation Update
