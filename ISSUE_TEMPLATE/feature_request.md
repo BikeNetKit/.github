@@ -1,40 +1,38 @@
 ---
-name: 'Feature Request'  
-about: 'Suggest an idea for this project'  
-title: '[FEATURE] '  
-labels: 'enhancement'  
-
+name: Feature request
+about: Suggest an idea for this project
+title: ""
+labels: enhancement
+assignees: ""
 ---
-
-## Problem Statement
 
 **Is your feature request related to a problem?**
 
 A clear description of what the problem is.
 Example: "I'm always frustrated when [...]"
 
-## Proposed Solution
+**Proposed Solution**
 
 A clear description of what you want to happen.
 
-## Alternative Solutions
+**Alternative Solutions**
 
 Describe any alternative solutions or features you've considered.
 
-## Use Cases
+**Use Cases**
 
 Describe specific use cases for this feature:
 
 1. As a [type of user], I want [goal] so that [benefit]
 2. ...
 
-## Additional Context
+**Additional Context**
 
 - Add mockups, diagrams, or examples
 - Links to similar features in other projects
 - Any other context
 
-## Willing to Contribute?
+**Willing to Contribute?**
 
 - [ ] I'm willing to submit a PR for this feature
 - [ ] I can help test this feature

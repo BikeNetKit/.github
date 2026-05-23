@@ -1,19 +1,23 @@
 ---
-name: 'Documentation'  
-about: 'Suggest updates or additions to documentation'  
-title: "[DOCS] "  
-labels: 'documentation'  
-
+name: Documentation
+about: Suggest updates or additions to documentation
+title: ""
+labels: documentation
+assignees: ""
 ---
 
-### Documentation Update
+**Documentation update**
+
 What part of the documentation needs to be updated or added?
 
-### Why Is This Needed?
+**Why is this needed?**
+
 Explain the importance of this update.
 
-### Suggested Changes
+**Suggested changes**
+
 Provide a detailed description of the changes.
 
-### Additional Context
+**Additional context**
+
 Include any related resources.
