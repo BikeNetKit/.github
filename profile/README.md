@@ -1,5 +1,5 @@
 # Let's get people to bike!
-![Cycling infrastructure](splash1.jpg)
+![Cycling infrastructure](_static/splash1.jpg)
 People want to bike and do it safely! To make it happen, cities must provide well connected networks of protected bicycle infrastructure. Yet, politicians often lack the leadership to listen to their citizens, not building for cycling at all, or without a plan.
 
 ## 🛠️ The toolkit to design and improve bike networks
@@ -24,6 +24,10 @@ To fulfil our 2026 grant deliverables, the below tools will be at least in "mini
 | [BikeNetLib](https://github.com/BikeNetKit/BikeNetLib) | 🚧 In progress | 0.5.0 | 
 
 
+## Supported by
+Development of `BikeNetKit` was supported by the [Innovation Fund Denmark](https://innovationsfonden.dk/en) and the EU HORIZON project [JUST STREETS](https://www.just-streets.eu).
+
+[![Innovation Fund Denmark](_static/logo_innovationfund.png)](https://innovationsfonden.dk/en) &emsp;&emsp; [![European Union](_static/logo_eu.png)](https://commission.europa.eu/index_en) &ensp; [![JUST STREETS](_static/logo_juststreets.png)](https://www.just-streets.eu/) 
+
 ## Credits
-`BikeNetKit` is funded by the [Innovation Fund Denmark](https://innovationsfonden.dk/en) and the EU project [JUST STREETS](https://www.just-streets.eu).  
 Photo attribution: [2013-06-03 10.41.10 by Bikecopenhagen.dk](https://www.flickr.com/photos/bikecopenhagendk/10360140446/), [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.en)
