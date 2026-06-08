@@ -25,9 +25,19 @@ To fulfil our 2026 grant deliverables, the below tools will be at least in "mini
 
 
 ## Supported by
-Development of `BikeNetKit` was supported by the [Innovation Fund Denmark](https://innovationsfonden.dk/en) and the EU HORIZON project [JUST STREETS](https://www.just-streets.eu).
+Development of BikeNetKit/GrowBikeNet was supported by the [Innovation Fund Denmark](https://innovationsfonden.dk/en), the EU HORIZON project [JUST STREETS](https://www.just-streets.eu), and the [Data Science Section](https://en.itu.dk/Research/Sections-and-research-groups/Data-Science) of IT University of Copenhagen.
 
 [![Innovation Fund Denmark](_static/logo_innovationfund.png)](https://innovationsfonden.dk/en) &emsp;&emsp; [![European Union](_static/logo_eu.png)](https://commission.europa.eu/index_en) &ensp; [![JUST STREETS](_static/logo_juststreets.png)](https://www.just-streets.eu/) 
 
 ## Credits
-Photo attribution: [2013-06-03 10.41.10 by Bikecopenhagen.dk](https://www.flickr.com/photos/bikecopenhagendk/10360140446/), [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.en)
+### Lead
+[Michael Szell](https://github.com/mszell)
+
+### Design & Visualization
+[Moritz Stefaner](https://github.com/MoritzStefaner)
+
+### Coding
+[Carlson M. Büth](https://github.com/cbueth), [Manuel Knepper](https://github.com/Manuel-Knepper), [Mariana D.L.M.V. Pessoa](https://github.com/marianamirandapessoa), [Michael Szell](https://github.com/mszell), [Anastassia Vybornova](https://github.com/anastassiavybornova)
+
+### Research
+Federico Battiston, Carlson M. Büth, Tiago Cunha, Ghourab Ghoshal, Astrid Gühnemann, Gerardo Iñiguez, Sayat Mimar, Luis G. Natera Orozco, Tyler Perlman, Roberta Sinatra, Michael Szell, Ane R. Vierø, Anastassia Vybornova
