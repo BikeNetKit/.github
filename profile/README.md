@@ -31,13 +31,23 @@ Development of BikeNetKit/GrowBikeNet was supported by the [Innovation Fund Denm
 
 ## Credits
 ### Lead
-[Michael Szell](https://github.com/mszell)
+<table><tr><td valign="center"><a href="https://github.com/mszell"><img src="https://avatars.githubusercontent.com/u/9054982?s=60&v=4"></td><td valign="center"><a href="https://github.com/mszell">Michael Szell</a></td></tr></table>
 
 ### Design & Visualization
-[Moritz Stefaner](https://github.com/MoritzStefaner)
+<table><tr><td valign="center"><a href="https://github.com/MoritzStefaner"><img src="https://avatars.githubusercontent.com/u/216044?s=60&v=4"></td><td valign="center"><a href="https://github.com/MoritzStefaner">Moritz Stefaner</a></td></tr></table>
 
-### Coding
-[Carlson M. Büth](https://github.com/cbueth), [Manuel Knepper](https://github.com/Manuel-Knepper), [Mariana D.L.M.V. Pessoa](https://github.com/marianamirandapessoa), [Michael Szell](https://github.com/mszell), [Anastassia Vybornova](https://github.com/anastassiavybornova)
+### Software development
+<table>
+  <tr>
+  <td valign="center"><a href="https://github.com/cbueth"><img src="https://avatars.githubusercontent.com/u/49326130?s=60&v=4"></td><td valign="center"><a href="https://github.com/cbueth">Carlson M. Büth</a></td>
+  <td valign="center"><a href="https://github.com/Manuel-Knepper"><img src="https://avatars.githubusercontent.com/u/148866038?s=60&v=4"></td><td valign="center"><a href="https://github.com/Manuel-Knepper">Manuel Knepper</a></td>
+  <td valign="center"><a href="https://github.com/marianamirandapessoa"><img src="https://avatars.githubusercontent.com/u/147063686?s=70&v=4"></td><td valign="center"><a href="https://github.com/marianamirandapessoa">Mariana D.L.M.V. Pessoa</a></td>
+  </tr>
+  <tr>
+  <td valign="center"><a href="https://github.com/mszell"><img src="https://avatars.githubusercontent.com/u/9054982?s=60&v=4"></td><td valign="center"><a href="https://github.com/mszell">Michael Szell</a></td>
+  <td valign="center"><a href="https://github.com/anastassiavybornova"><img src="https://avatars.githubusercontent.com/u/73348979?s=60&v=4"></td><td valign="center"><a href="https://github.com/anastassiavybornova">Anastassia Vybornova</a></td>
+  </tr>
+</table>
 
 ### Research
 Federico Battiston, Carlson M. Büth, Tiago Cunha, Ghourab Ghoshal, Astrid Gühnemann, Gerardo Iñiguez, Sayat Mimar, Luis G. Natera Orozco, Tyler Perlman, Roberta Sinatra, Michael Szell, Ane R. Vierø, Anastassia Vybornova
