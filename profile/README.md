@@ -17,7 +17,7 @@ To fulfil our 2026 grant deliverables, the below tools will be at least in "mini
 | Tool | Status | Version |
 | ---------- | -------- | :------: | 
 | [superblockify](https://github.com/BikeNetKit/superblockify) | ✅ Done | 1.0.2 | 
-| [GrowBikeNet](https://github.com/BikeNetKit/GrowBikeNet) | 🚧 In progress | 0.9.0 | 
+| [GrowBikeNet](https://github.com/BikeNetKit/GrowBikeNet) | 🚧 In progress | 0.10.0 | 
 | [FixBikeNet](https://github.com/BikeNetKit/FixBikeNet) | 🚧 In progress | 0.6.0 | 
 | [LinkBikeNet](https://github.com/BikeNetKit/LinkBikeNet) | 🚧 In progress | n/a | 
 | [LoopBikeNet](https://github.com/BikeNetKit/LoopBikeNet) | ⏳ Planned | n/a | 
