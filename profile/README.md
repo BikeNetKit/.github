@@ -30,11 +30,6 @@ Development of BikeNetKit/GrowBikeNet was supported by the [Innovation Fund Denm
 [![Innovation Fund Denmark](_static/logo_innovationfund.png)](https://innovationsfonden.dk/en) &emsp;&emsp; [![European Union](_static/logo_eu.png)](https://commission.europa.eu/index_en) &ensp; [![JUST STREETS](_static/logo_juststreets.png)](https://www.just-streets.eu/) 
 
 ## Credits
-### Lead
-<table><tr><td valign="center"><a href="https://github.com/mszell"><img src="https://avatars.githubusercontent.com/u/9054982?s=60&v=4"></td><td valign="center"><a href="https://github.com/mszell">Michael Szell</a></td></tr></table>
-
-### Design & Visualization
-<table><tr><td valign="center"><a href="https://github.com/MoritzStefaner"><img src="https://avatars.githubusercontent.com/u/216044?s=60&v=4"></td><td valign="center"><a href="https://github.com/MoritzStefaner">Moritz Stefaner</a></td></tr></table>
 
 ### Software development
 <table>
@@ -48,6 +43,12 @@ Development of BikeNetKit/GrowBikeNet was supported by the [Innovation Fund Denm
   <td valign="center"><a href="https://github.com/anastassiavybornova"><img src="https://avatars.githubusercontent.com/u/73348979?s=60&v=4"></td><td valign="center"><a href="https://github.com/anastassiavybornova">Anastassia Vybornova</a></td>
   </tr>
 </table>
+
+### Design & Visualization
+<table><tr><td valign="center"><a href="https://github.com/MoritzStefaner"><img src="https://avatars.githubusercontent.com/u/216044?s=60&v=4"></td><td valign="center"><a href="https://github.com/MoritzStefaner">Moritz Stefaner</a></td></tr></table>
+
+### Lead
+<table><tr><td valign="center"><a href="https://github.com/mszell"><img src="https://avatars.githubusercontent.com/u/9054982?s=60&v=4"></td><td valign="center"><a href="https://github.com/mszell">Michael Szell</a></td></tr></table>
 
 ### Research
 Federico Battiston, Carlson M. Büth, Tiago Cunha, Ghourab Ghoshal, Astrid Gühnemann, Gerardo Iñiguez, Sayat Mimar, Luis G. Natera Orozco, Tyler Perlman, Roberta Sinatra, Michael Szell, Ane R. Vierø, Anastassia Vybornova
