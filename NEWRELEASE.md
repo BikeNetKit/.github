@@ -19,13 +19,13 @@ Follow the steps below in order to make a new release in a BikeNetKit repo with 
 - [ ] Check that the new version was updated at https://pypi.org/project/PACKAGENAME/
 
 ## Versioning Github
+- [ ] Update last release version in development table of the [.github profile README](https://github.com/BikeNetKit/.github/blob/main/profile/README.md), and [Status](https://pypi.org/classifiers/) if needed
 - [ ] Click `Releases`
 - [ ] Draft a new release
 - [ ] Tag+Release title: Create tag called `vX.Y.Z` (Target: main)
 - [ ] Release notes: Copy-paste from `changelog.md`
 - [ ] Save draft
 - [ ] Click `Releases`: Check draft. Edit. Click `Publish release`.
-- [ ] Update last release version in development table of the [.github profile README](https://github.com/BikeNetKit/.github/blob/main/profile/README.md), and [Status](https://pypi.org/classifiers/) if needed
 
 ## Conda forge
 TBD
