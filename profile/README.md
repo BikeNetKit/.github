@@ -50,5 +50,5 @@ Development of BikeNetKit/GrowBikeNet was supported by the [Innovation Fund Denm
 ### Lead
 <table><tr><td valign="center"><a href="https://github.com/mszell"><img src="https://avatars.githubusercontent.com/u/9054982?s=60&v=4"></td><td valign="center"><a href="https://github.com/mszell">Michael Szell</a></td></tr></table>
 
-### Research
+### Based on research by
 Federico Battiston, Carlson M. Büth, Tiago Cunha, Ghourab Ghoshal, Astrid Gühnemann, Gerardo Iñiguez, Sayat Mimar, Luis G. Natera Orozco, Tyler Perlman, Roberta Sinatra, Michael Szell, Ane R. Vierø, Anastassia Vybornova
