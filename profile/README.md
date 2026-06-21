@@ -34,21 +34,21 @@ Development of BikeNetKit/GrowBikeNet was supported by the [Innovation Fund Denm
 ### Software development
 <table>
   <tr>
-  <td valign="center"><a href="https://github.com/cbueth"><img src="https://avatars.githubusercontent.com/u/49326130?s=60&v=4"></td><td valign="center"><a href="https://github.com/cbueth">Carlson M. Büth</a></td>
-  <td valign="center"><a href="https://github.com/Manuel-Knepper"><img src="https://avatars.githubusercontent.com/u/148866038?s=60&v=4"></td><td valign="center"><a href="https://github.com/Manuel-Knepper">Manuel Knepper</a></td>
+  <td valign="center"><a href="https://github.com/cbueth"><img src="https://avatars.githubusercontent.com/u/49326130?s=120" width="60"></td><td valign="center"><a href="https://github.com/cbueth">Carlson M. Büth</a></td>
+  <td valign="center"><a href="https://github.com/Manuel-Knepper"><img src="https://avatars.githubusercontent.com/u/148866038?s=120" width="60"></td><td valign="center"><a href="https://github.com/Manuel-Knepper">Manuel Knepper</a></td>
   <td valign="center"><a href="https://github.com/marianamirandapessoa"><img src="https://avatars.githubusercontent.com/u/147063686?s=70&v=4"></td><td valign="center"><a href="https://github.com/marianamirandapessoa">Mariana Pessoa</a></td>
   </tr>
   <tr>
-  <td valign="center"><a href="https://github.com/mszell"><img src="https://avatars.githubusercontent.com/u/9054982?s=60&v=4"></td><td valign="center"><a href="https://github.com/mszell">Michael Szell</a></td>
-  <td valign="center"><a href="https://github.com/anastassiavybornova"><img src="https://avatars.githubusercontent.com/u/73348979?s=60&v=4"></td><td valign="center"><a href="https://github.com/anastassiavybornova">Anastassia Vybornova</a></td>
+  <td valign="center"><a href="https://github.com/mszell"><img src="https://avatars.githubusercontent.com/u/9054982?s=120" width="60"></td><td valign="center"><a href="https://github.com/mszell">Michael Szell</a></td>
+  <td valign="center"><a href="https://github.com/anastassiavybornova"><img src="https://avatars.githubusercontent.com/u/73348979?s=120" width="60"></td><td valign="center"><a href="https://github.com/anastassiavybornova">Anastassia Vybornova</a></td>
   </tr>
 </table>
 
 ### Design & Visualization
-<table><tr><td valign="center"><a href="https://github.com/MoritzStefaner"><img src="https://avatars.githubusercontent.com/u/216044?s=60&v=4"></td><td valign="center"><a href="https://github.com/MoritzStefaner">Moritz Stefaner</a></td></tr></table>
+<table><tr><td valign="center"><a href="https://github.com/MoritzStefaner"><img src="https://avatars.githubusercontent.com/u/216044?s=120" width="60"></td><td valign="center"><a href="https://github.com/MoritzStefaner">Moritz Stefaner</a></td></tr></table>
 
 ### Lead
-<table><tr><td valign="center"><a href="https://github.com/mszell"><img src="https://avatars.githubusercontent.com/u/9054982?s=60&v=4"></td><td valign="center"><a href="https://github.com/mszell">Michael Szell</a></td></tr></table>
+<table><tr><td valign="center"><a href="https://github.com/mszell"><img src="https://avatars.githubusercontent.com/u/9054982?s=120" width="60"></td><td valign="center"><a href="https://github.com/mszell">Michael Szell</a></td></tr></table>
 
 ### Based on research by
 Federico Battiston, Carlson M. Büth, Tiago Cunha, Ghourab Ghoshal, Astrid Gühnemann, Gerardo Iñiguez, Sayat Mimar, Luis G. Natera Orozco, Tyler Perlman, Roberta Sinatra, Michael Szell, Ane R. Vierø, Anastassia Vybornova
