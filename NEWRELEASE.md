@@ -33,7 +33,7 @@ Follow the steps below in order to make a new release in a BikeNetKit repo with 
 - [ ] If there were no dependency and license changes, and all checks passed: Merge the PR
 - [ ] If there were dependency or license changes, or not all checks passed: Use the hub tool to push updates/fixes to the branch as needed: https://conda-forge.org/docs/maintainer/updating_pkgs/#pushing-to-regro-cf-autotick-bot-branch
 - [ ] Once all checks have passed, merge the PR
-- [ ] Check that the new version was updated at https://anaconda.org/conda-forge/PACKAGENAME
+- [ ] Check that the new version was updated at https://anaconda.org/conda-forge/PACKAGENAME (might take a few minutes, also try browser refresh)
 
 ## Afterwards
 - [ ] If docs had new content that relied on the new conda version, rebuild them (without caching).
