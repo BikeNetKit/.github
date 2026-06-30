@@ -27,7 +27,7 @@ Follow the steps below in order to make a new release in a BikeNetKit repo with 
 - [ ] Save draft
 - [ ] Click `Releases`: Check draft. Edit. Click `Publish release`.
 
-## Conda forge
+## Versioning conda forge
 - [ ] Wait for some hours until the [regro-cf-autotick-bot](https://conda-forge.org/docs/maintainer/updating_pkgs/#how-does-regro-cf-autotick-bot-create-automatic-version-updates) has discovered the new release on PyPI
 - [ ] Once done, there should be a PR here with the newest release (example growbikenet): https://github.com/pulls/search?q=is%3Aopen+is%3Apr+author%3Aregro-cf-autotick-bot+archived%3Afalse+growbikenet
 - [ ] If there were no dependency and license changes, and all checks passed: Merge the PR
