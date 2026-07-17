@@ -36,7 +36,7 @@ Follow the steps below in order to make a new release in a BikeNetKit repo with 
 - [ ] Check that the new version was updated at https://anaconda.org/conda-forge/PACKAGENAME (might take a few minutes, also try browser refresh)
 
 ## Afterwards
-- [ ] If docs had new content that relied on the new conda version, wait some hours until it can be installed from conda-forge, then rebuild the docs (without caching).
+- [ ] If the docs have new content that relies on the new conda version, wait some hours until it can be installed from conda-forge, then rebuild the docs (without caching). For example, in growbikenet, go to https://github.com/BikeNetKit/GrowBikeNet/actions/workflows/docs_rebuild.yml and "Run workflow".
 - [ ] If package is in use, run `pixi upgrade PACKAGENAME`
 - [ ] Post on [LinkedIn](https://www.linkedin.com/company/bikenetkit)
 - [ ] Post on [Mastodon](https://fosstodon.org/@bikenetkit)
