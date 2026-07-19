@@ -55,7 +55,7 @@ It is not the aspiration of BikeNetKit to replace human planners. We do not thin
 ## What is your expertise on the topic?
 Since 2019 we have pioneered a *Science of Bicycle Networks*, exploring the topic from many different angles such as:
 
-- [Sebastiao & Szell, Findings (2026)](https://doi.org/10.32866/001c.163938) 
+- [Sebastiao & Szell, Findings 163938 (2026)](https://doi.org/10.32866/001c.163938) 
 - [Sebastiao et al, Appl Net Sci (2026)](https://link.springer.com/article/10.1007/s41109-026-00792-5) 
 - [Szell, Vybornova & Vierø, arxiv:2604.07029 (2026)](https://arxiv.org/abs/2604.07029)
 - [Vybornova et al, EPB 52 (2025)](https://journals.sagepub.com/doi/10.1177/23998083251355999)
@@ -67,7 +67,7 @@ Since 2019 we have pioneered a *Science of Bicycle Networks*, exploring the topi
 - [Folco et al, EPB 50 (2023)](https://doi.org/10.1177/23998083221135611)
 - [Vybornova et al, Geog Anal 55 (2023)](https://onlinelibrary.wiley.com/doi/epdf/10.1111/gean.12324)
 - [Szell et al, Sci Rep 12 (2022)](https://www.nature.com/articles/s41598-022-10783-y)
-- [Breum et al, Transp F 56683 (2022)](https://findingspress.org/article/56683-computational-desire-line-analysis-of-cyclists-on-the-dybbolsbro-intersection-in-copenhagen)
+- [Breum et al, Findings 56683 (2022)](https://findingspress.org/article/56683-computational-desire-line-analysis-of-cyclists-on-the-dybbolsbro-intersection-in-copenhagen)
 - [Natera et al, R Soc Open Sci 7 (2020)](https://royalsocietypublishing.org/doi/10.1098/rsos.201130)
 
 Funders of this research include: The Danish Ministry of Transport, the EU Horizon Project [JUST STREETS](https://www.just-streets.eu/). The development of BikeNetKit is now also funded by the Innovation Fund Denmark.
