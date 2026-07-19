@@ -12,7 +12,7 @@ People want to bike and do it safely. To make it happen, cities must provide wel
 We started developing `BikeNetKit` in 2026. It uses a copyleft license, ensuring it will always stay free and reproducible. Development support by the community is very welcome! 👉 [How to contribute](../CONTRIBUTING.md)
 
 ## 🚧 Development status
-To fulfil our 2026 grant deliverables, the below tools will be at least in "minimum viable product" form and packaged by 2026-12-31. By then we will also have an interactive visualization platform running at [bikenetkit.org](https://bikenetkit.org/). We intend to develop and maintain `BikeNetKit` beyond 2026.
+To fulfil our 2026 grant deliverables, the below tools will be usable and packaged by 2026-12-31. By then we will also have an interactive visualization platform running at [bikenetkit.org](https://bikenetkit.org/). We will develop and maintain `BikeNetKit` beyond 2026.
 
 | Tool | Status | Version |
 | ---------- | -------- | :------: | 
@@ -25,7 +25,7 @@ To fulfil our 2026 grant deliverables, the below tools will be at least in "mini
 
 
 ## Supported by
-Development of BikeNetKit was supported by the [Innovation Fund Denmark](https://innovationsfonden.dk/en), the EU HORIZON project [JUST STREETS](https://www.just-streets.eu), and the [Data Science Section](https://en.itu.dk/Research/Sections-and-research-groups/Data-Science) of IT University of Copenhagen.
+Development of BikeNetKit is supported by the [Innovation Fund Denmark](https://innovationsfonden.dk/en), the EU HORIZON project [JUST STREETS](https://www.just-streets.eu), and the [Data Science Section](https://en.itu.dk/Research/Sections-and-research-groups/Data-Science) of IT University of Copenhagen.
 
 [![Innovation Fund Denmark](_static/logo_innovationfund.png)](https://innovationsfonden.dk/en) &emsp;&emsp; [![European Union](_static/logo_eu.png)](https://commission.europa.eu/index_en) &ensp; [![JUST STREETS](_static/logo_juststreets.png)](https://www.just-streets.eu/) 
 
