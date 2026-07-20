@@ -1,6 +1,6 @@
 # Let's build bike networks that work!
 ![Cycling infrastructure](_static/banner_bikenetkit.png)
-People want to bike and do it safely. To make it happen, cities must provide well connected networks of protected bicycle infrastructure. Yet, politicians often lack the leadership to listen to their citizens, not building for cycling at all, or without a plan.
+People want to bike and do it safely. To make it happen, cities must provide well connected networks of protected bicycle infrastructure. Yet, politicians often neglect their citizens, not building for cycling at all, or without a plan.
 
 ## 🛠️ The toolkit to design and improve bike networks
 `BikeNetKit` is our answer to this problem. Currently under development, this digital toolkit compiles state-of-the-art bicycle network planning algorithms that we developed at [NERDS](https://nerds.itu.dk/) since 2019, packaged as a Python software suite - all made with local cycling know-how in Copenhagen. The software is open-source, free and easy to use.
@@ -23,8 +23,10 @@ To fulfil our 2026 grant deliverables, the below tools will be usable and packag
 | [LoopBikeNet](https://github.com/BikeNetKit/LoopBikeNet) | ⏳ Projected | n/a | 
 | [BikeNetLib](https://github.com/BikeNetKit/BikeNetLib) | 🚧 Planning | 0.5.0 | 
 
+## 🙋 FAQ
+For more explanations, see our: [Frequently Asked Questions](https://github.com/BikeNetKit/.github/blob/main/FAQ.md)
 
-## Supported by
+## 💰 Supported by
 Development of BikeNetKit is supported by the [Innovation Fund Denmark](https://innovationsfonden.dk/en), the EU HORIZON project [JUST STREETS](https://www.just-streets.eu), and the [Data Science Section](https://en.itu.dk/Research/Sections-and-research-groups/Data-Science) of IT University of Copenhagen.
 
 [![Innovation Fund Denmark](_static/logo_innovationfund.png)](https://innovationsfonden.dk/en) &emsp;&emsp; [![European Union](_static/logo_eu.png)](https://commission.europa.eu/index_en) &ensp; [![JUST STREETS](_static/logo_juststreets.png)](https://www.just-streets.eu/) 
