@@ -72,4 +72,6 @@ Since 2019 we have pioneered a *Science of Bicycle Networks*, exploring the topi
 - [Breum, Kostic & Szell, Findings 56683 (2022)](https://findingspress.org/article/56683-computational-desire-line-analysis-of-cyclists-on-the-dybbolsbro-intersection-in-copenhagen)
 - [Natera et al, R Soc Open Sci 7 (2020)](https://royalsocietypublishing.org/doi/10.1098/rsos.201130)
 
+Our research builds on planning guidelines like the Dutch CROW Design manual for bicycle traffic, and was performed in collaboration with practitioners such as [Dansk Kyst- og Naturturisme](https://www.kystognaturturisme.dk/).
+
 Funders of this research include: The Danish Ministry of Transport, the EU Horizon Project [JUST STREETS](https://www.just-streets.eu/). The development of BikeNetKit is now also funded by the Innovation Fund Denmark.
