@@ -25,7 +25,6 @@ From easiest to most specialized:
 - Help with "good first issue"s on Github. 
 - Make pull requests on Github (after having created or commented on an issue). This can be anything from correcting typos to bugfixes or new feature development.
 
-
 ## What is a bicycle network?
 There is no generally agreed definition of a bicycle network. However, having pioneered the field, we have a good understanding of the nuances: Here we define it broadly as the set of infrastructure elements (implemented by physical and/or legal means) which allows people of all ages and demographics to safely cycle - both subjectively and objectively. One necessary prerequisite for such infrastructure is practically no mixing with vehicular traffic. 
 
@@ -51,6 +50,9 @@ If you would like to use BikeNetKit for such concrete tasks but run into limitat
 
 ## Will BikeNetKit replace human planners?
 It is not the aspiration of BikeNetKit to replace human planners. We do not think algorithmic design should be competing with manual approaches - rather it should be complementing them. There always has to be human judgement "in the loop", because such human, local domain knowledge is crucial when designing systems for other humans.
+
+## How will you maintain BikeNetKit in the long term?
+We aim to maintain BikeNetKit in the long term, beyond 2026. Being aware of the burdens of open-source maintenance, we would like to build a community of cycling researchers and advocates around BikeNetKit, increasing the project's [bus factor](https://en.wikipedia.org/wiki/Bus_factor) and its longevity. Apart from featuring single, well-defined tools, part of BikeNetKit is the general-purpose library [BikeNetLib](https://github.com/BikeNetKit/BikeNetLib) which aspires to offer core utilities, useful for *anybody* who wants to study or work with bicycle network data.
 
 ## What is your expertise on the topic?
 Since 2019 we have pioneered a *Science of Bicycle Networks*, exploring the topic from many different angles such as:
