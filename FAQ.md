@@ -8,9 +8,10 @@ Ultimately, most cities on the planet do not offer infrastructure for safe cycli
 
 Practically, BikeNetKit exists because since 2019 [we have pioneered a *Science of Bicycle Networks*](#what-is-your-expertise-on-the-topic), developing several computational approaches to growing or fixing bicycle networks as support tools for urban planners. However, these algorithms were part of research projects and thus not user-friendly nor maintained, therefore not usable for this purpose in practice. In 2025, we won a grant to change this, by turning our raw algorithms into user-friendly software called *BikeNetKit*.
 
-## What is the goal and philosophy of BikeNetKit?
+## What is the goal of BikeNetKit?
 The goal of the BikeNetKit software is to provide  decision support tools to urban planners for various bicycle network planning tasks, or for proactive citizens to create a compelling vision for urban cycling in their city. Another aim is to foster future research on bicycle networks. The goal of the accompanying interactive [bikenetkit.org](https://bikenetkit.org/) platform is to visualize the software's potential, to attract policy makers and to guide users.
 
+## What is the philosophy of BikeNetKit?
 BikeNetKit is an alternative to extractive practices of bicycle network planning where cities overpay consultancies for a one-off pdf report. Instead, BikeNetKit provides free, open-source software in a community effort, which cities or proactive citizens can use to explore many different scenarios of bicycle network development. This exploration is also data-driven and fully customizable, as cities can import their own data sets such as traffic crash or mobility data to adapt the software to their own needs. 
 
 To prevent extractive use and to keep BikeNetKit's results always transparent and reproducible, it uses the [AGPL license](https://choosealicense.com/licenses/agpl-3.0/) which ensures that all derivations of the software must disclose their source code.
