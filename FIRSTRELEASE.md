@@ -25,8 +25,6 @@ Follow the steps below in order to setup releases in a BikeNetKit repo with pack
 
 ## Set up Github releases (with sphinx docs)
 - [ ] Add and configure `PACKAGENAME/_version.py`
-- [ ] Add and configure `release-please-config.json`
-- [ ] Add and configure `.release-please-manifest.json`
 - [ ] Add and configure `docs/changelog.md`
 - [ ] Add and configure `docs/conf.py`
 
