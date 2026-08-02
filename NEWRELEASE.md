@@ -9,7 +9,6 @@ Follow the steps below in order to make a new release in a BikeNetKit repo with 
 ## Versioning pip
 - [ ] Create a new `releaseX.Y.Z` branch
 - [ ] Update version in `PACKAGENAME/_version.py`
-- [ ] Update version in `.release-please-manifest.json`
 - [ ] Update version in `pyproject.toml`
 - [ ] Update [Development Status](https://pypi.org/classifiers/) in `pyproject.toml`, if needed
 - [ ] Update version and release date in `CITATION.cff`
