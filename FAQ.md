@@ -1,12 +1,12 @@
 # BikeNetKit FAQ
-Frequently asked questions about BikeNetKit.
+Frequently asked questions about [BikeNetKit](https://bikenetkit.org/).
 
 ## Why does BikeNetKit exist?
 BikeNetKit exists for an ultimate and for a practical reason. 
 
 Ultimately, most cities on the planet do not offer infrastructure for safe cycling, at least no [*functional*](#when-is-a-bicycle-network-functional) infrastructure, despite the latent demand of many people who want to do so. Enabling people to cycle has massive societal benefits from environmental to public health. Increasing cycling while reducing the harm by cars is also the most effective approach to tackle fundamental issues in mobility and urban planning, [much more than "solutions" pushed by corporate interests like electric cars](https://theconversation.com/cycling-is-ten-times-more-important-than-electric-cars-for-reaching-net-zero-cities-157163).
 
-Practically, BikeNetKit exists because since 2019 [we have pioneered a *Science of Bicycle Networks*](#what-is-your-expertise-on-the-topic), developing several computational approaches to growing or fixing bicycle networks as support tools for urban planners. However, these algorithms were part of research projects and thus not user-friendly nor maintained, therefore not usable for this purpose in practice. In 2025, we won a grant to change this, by turning our raw algorithms into user-friendly software called *BikeNetKit*.
+Practically, BikeNetKit exists because since 2019 [we have pioneered a *Science of Bicycle Networks*](#what-is-your-expertise-on-the-topic), developing several computational approaches to growing or fixing bicycle networks as support tool prototypes for urban planners. However, most of these algorithms were only the outcomes of research projects and thus not user-friendly nor maintained, therefore not usable as practical tools. In 2025, we won a grant to change this, by turning our raw algorithms into user-friendly software called *BikeNetKit*.
 
 ## What is the goal of BikeNetKit?
 The goal of the BikeNetKit software is to provide  decision support tools to urban planners for various bicycle network planning tasks, or for proactive citizens to create a compelling vision for urban cycling in their city. Another aim is to foster future research on bicycle networks. The goal of the accompanying interactive [bikenetkit.org](https://bikenetkit.org/) platform is to visualize the software's potential, to attract policy makers and to guide users.
@@ -45,7 +45,7 @@ We discourage the term "solution" as it implies that there is a technical fix to
 BikeNetKit's tools produce city-wide visions of how a concrete, functional bicycle network could look like. Whether such visions are "realistic" to implement within a certain timeframe is an ill-defined question, since many things can be realized if there is the political will. However, several BikeNetKit tools also provide a prioritization or ranking of the suggested measures, which directly translates into which measures to implement first, given a fixed budget, to arrive at a functional network early.
 
 ## Is BikeNetKit useful for planning concrete bicycle infrastructure?
-The original algorithms behind most of BikeNetKit's software was not useful for concrete planning tasks, as it provided statistical, unrefined outputs on a city-wide scale without an aspiration for concrete recommendations. However, one goal of BikeNetKit is to expand those original algorithms into useful tools that allow the incorporation of local knowledge and data, and of tweaking details, in order to become useful for concrete planning tasks.
+The original raw algorithms behind some of BikeNetKit's software was not useful for concrete planning tasks, as it provided statistical, unrefined outputs on a city-wide scale without an aspiration for concrete recommendations. However, one goal of BikeNetKit is to expand those original algorithms into useful tools that allow the incorporation of local knowledge and data, and of tweaking details, in order to become useful for concrete planning tasks.
 
 If you would like to use BikeNetKit for such concrete tasks but run into limitations, please let us know! We would love to improve our software to be as useful as possible.
 
@@ -73,6 +73,6 @@ Since 2019 we have pioneered a *Science of Bicycle Networks*, exploring the topi
 - [Breum, Kostic & Szell, Findings 56683 (2022)](https://findingspress.org/article/56683-computational-desire-line-analysis-of-cyclists-on-the-dybbolsbro-intersection-in-copenhagen)
 - [Natera et al, R Soc Open Sci 7 (2020)](https://royalsocietypublishing.org/doi/10.1098/rsos.201130)
 
-Our research builds on planning guidelines like the Dutch CROW Design manual for bicycle traffic, and was performed in collaboration with practitioners such as [Dansk Kyst- og Naturturisme](https://www.kystognaturturisme.dk/).
+Our research builds on planning guidelines like the Dutch CROW Design manual for bicycle traffic, and was performed in collaboration with practitioners such as [Dansk Kyst- og Naturturisme](https://www.kystognaturturisme.dk/) or urban planners from different cities in the EU Horizon Project [JUST STREETS](https://www.just-streets.eu/).
 
 Funders of this research include: The Danish Ministry of Transport, the EU Horizon Project [JUST STREETS](https://www.just-streets.eu/). The development of BikeNetKit is now also funded by the Innovation Fund Denmark.
