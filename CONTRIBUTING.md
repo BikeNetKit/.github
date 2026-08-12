@@ -29,12 +29,12 @@ All types of contributions are encouraged and valued. See this page for differen
 
 Before creating bug reports, please check existing issues to avoid 
 duplicates. When you create a bug report, include as many details as 
-possible using our [bug report template](ISSUE_TEMPLATE/bug_report.md).
+possible using our [bug report template](https://github.com/BikeNetKit/.github/blob/main/.github/ISSUE_TEMPLATE/bug_report.md).
 
 ### 💡 Suggesting Features
 
 Feature requests are welcome! Please use our 
-[feature request template](ISSUE_TEMPLATE/feature_request.md).
+[feature request template](https://github.com/BikeNetKit/.github/blob/main/.github/ISSUE_TEMPLATE/feature_request.md).
 
 
 ### 📝 Improving Documentation
