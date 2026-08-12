@@ -126,6 +126,7 @@ and check in the `docs/build` folder that the output is as expected.
 
 - Use prettier and ruff for formatting via pre-commit ([config](pre-commit-config.yaml) included)
 - Write self-documenting code with meaningful variable names
+- Follow our [naming conventions](NAMING_CONVENTIONS.md)
 
 ### Testing
 
