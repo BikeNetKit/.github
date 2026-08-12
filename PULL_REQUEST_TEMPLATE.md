@@ -4,7 +4,6 @@
 
 ## Related Issue
 
-
 Fixes #(issue number)
 
 ## Type of Change
@@ -18,8 +17,6 @@ Fixes #(issue number)
 
 ## How Has This Been Tested?
 
-
-
 - [ ] Unit tests
 - [ ] Integration tests
 - [ ] Manual testing
@@ -28,7 +25,6 @@ Fixes #(issue number)
 - OS:
 
 ## Screenshots (if applicable)
-
 
 
 ## Checklist
@@ -43,4 +39,3 @@ Fixes #(issue number)
 
 
 ## Additional Notes
-
