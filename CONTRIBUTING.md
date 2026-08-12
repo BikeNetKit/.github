@@ -54,32 +54,37 @@ great places to start.
 ### Prerequisites
 
 - Git
-- pre-commit
-- pytest
+- [Pixi](https://pixi.prefix.dev/latest/)
 
 ### Getting Started
 
-```
-# 1. Fork the repository on GitHub
 
-# 2. Clone your fork locally
-git clone https://github.com/YOUR_USERNAME/[project-name].git
-cd [project-name]
+1. Fork the repository on GitHub
+2. Clone your fork locally
+`git clone https://github.com/YOUR_USERNAME/[project-name].git`
+`cd [project-name]`
+3. Add upstream remote
+`git remote add upstream https://github.com/BikeNetKit/[project-name].git`
+4. Create a branch for your changes
+`git checkout -b feature/your-feature-name`
+5. Install the dev environment with [Pixi](https://pixi.prefix.dev/latest/)
+`pixi init --import environment-dev.yml`  
+More information, for the example growbikenet: https://docs.bikenetkit.org/GrowBikeNet/installation/#development-installation
 
-# 3. Add upstream remote
-git remote add upstream https://github.com/BikeNetKit/[project-name].git
-
-# 4. Create a branch for your changes
-git checkout -b feature/your-feature-name
-```
 
 ### Testing
 
-Unit tests should be written for any new function that gets added to the project. Please add these tests to the /tests/test_functions.py file.
-Tests should follow the naming convention of test_name_of_function, where name_of_function is the name of the newly added function.
+Unit tests should be written for any new function that gets added to the project. Please add these tests to the `/tests/test_functions.py` file.
+Tests should follow the naming convention of `test_name_of_function`, where `name_of_function` is the name of the newly added function.
 Ensure that the output of the function is what you expect, given a certain example input.
 For changes made to functions that already exist, make sure to check if the tests that already exist still pass without issues.
-It is good practice to run all tests in the test_functions.py file before submitting a Pull Request.
+It is good practice to run all tests before submitting a Pull Request.
+
+Runnin tests: `pytest`  
+
+If you update docs, build them locally via  
+`sphinx-build docs/source docs/build`  
+and check in the `docs/build` folder that the output is as expected.
 
 
 ## Pull Request Process
