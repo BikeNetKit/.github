@@ -1,3 +1,3 @@
-# .github: Organization-wide documents
+# <a href="https://docs.bikenetkit.org"><img src="profile/_static/logo_bikenetkit.svg" alt="LinkBikeNet" width="255" height="59"></a>
 
-Source for CONTRIBUTING.md and PR/issue templates: https://rivereditor.com/blogs/write-contribution-guide-open-source-project
+This repository contains all documents and templates relevant for the [BikeNetKit organization](https://github.com/BikeNetKit).
