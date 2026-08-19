@@ -53,4 +53,4 @@ Development of BikeNetKit is supported by the [Innovation Fund Denmark](https://
 <table><tr><td valign="center"><a href="https://github.com/mszell"><img src="https://avatars.githubusercontent.com/u/9054982?s=120" width="60"></td><td valign="center"><a href="https://github.com/mszell">Michael Szell</a></td></tr></table>
 
 ### Based on research by
-Federico Battiston, Carlson M. Büth, Tiago Cunha, Ghourab Ghoshal, Astrid Gühnemann, Gerardo Iñiguez, Sayat Mimar, Luis G. Natera Orozco, Tyler Perlman, Roberta Sinatra, Michael Szell, Ane R. Vierø, Anastassia Vybornova
+Federico Battiston, Carlson M. Büth, Tiago Cunha, Ghourab Ghoshal, Astrid Gühnemann, Gerardo Iñiguez, Sayat Mimar, Luis G. Natera Orozco, Tyler Perlman, Clément Sebastiao, Roberta Sinatra, Michael Szell, Ane R. Vierø, Anastassia Vybornova
