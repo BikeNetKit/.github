@@ -49,6 +49,11 @@ The original raw algorithms behind some of BikeNetKit's software was not useful 
 
 If you would like to use BikeNetKit for such concrete tasks but run into limitations, please let us know! We would love to improve our software to be as useful as possible.
 
+## How did you evaluate BikeNetKit's results, for example with Strava data of cyclist flows?
+Such cyclist mobility data is a reflection of the existing underlying cycling infrastructure (or lack of it). It is thus carrying strong survivorship bias, apart from other biases. Therefore, such data cannot be used for evaluation. It is not the point of BikeNetKit to reinforce the existing status quo, but to fix or extend existing infrastructure, or to propose good infrastructure from scratch. BikeNetKit's approach thus follows the OECD's recommendation to replace the outdated "predict and provide" planning paradigm with the vision-led "decide and provide" principle.
+
+That being said, we have attempted validations of our approaches in [our research](#what-is-your-expertise-on-the-topic) whenever possible, for example showing that GrowBikeNet indeed recreates well the existing bicycle network in Copenhagen, or that FixBikeNet indeed tends to suggest filling gaps where citizens ask for it. For this reason, some tools of BikeNetKit allow the incorporation of custom data (like mobility or citizen surveys) to shape their results.
+
 ## Will BikeNetKit replace human planners?
 It is not the aspiration of BikeNetKit to replace human planners. We do not think algorithmic design should be competing with manual approaches - rather it should be complementing them. There always has to be human judgement "in the loop", because such human, local domain knowledge is crucial when designing systems for other humans.
 
