@@ -24,7 +24,7 @@ To fulfil our 2026 grant deliverables, the below tools will be usable and packag
 | [BikeNetLib](https://github.com/BikeNetKit/BikeNetLib) | 🚧 Planning | 0.5.0 | 
 
 ## 🙋 FAQ
-For more explanations, see our: [Frequently Asked Questions](https://github.com/BikeNetKit/.github/blob/main/FAQ.md)
+For more explanations, see our: [Frequently Asked Questions](https://github.com/BikeNetKit/.github/blob/main/FAQ.md#bikenetkit-faq)
 
 ## 💰 Supported by
 Development of BikeNetKit is supported by the [Innovation Fund Denmark](https://innovationsfonden.dk/en), the EU HORIZON project [JUST STREETS](https://www.just-streets.eu), and the [Data Science Section](https://en.itu.dk/Research/Sections-and-research-groups/Data-Science) of IT University of Copenhagen.
