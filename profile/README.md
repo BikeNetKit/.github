@@ -18,7 +18,7 @@ To fulfil our 2026 grant deliverables, the below tools will be usable and packag
 | ---------- | -------- | :------: | 
 | [superblockify](https://github.com/BikeNetKit/superblockify) | ✅ Stable | 1.0.2 | 
 | [GrowBikeNet](https://github.com/BikeNetKit/GrowBikeNet) | 🚧 Beta | 0.14.1 | 
-| [FixBikeNet](https://github.com/BikeNetKit/FixBikeNet) | 🚧 Alpha | 0.7.0 | 
+| [FixBikeNet](https://github.com/BikeNetKit/FixBikeNet) | 🚧 Beta | 0.8.0 | 
 | [LinkBikeNet](https://github.com/BikeNetKit/LinkBikeNet) | 🚧 Alpha | 0.6.0 | 
 | [LoopBikeNet](https://github.com/BikeNetKit/LoopBikeNet) | ⏳ Projected | n/a | 
 | [BikeNetLib](https://github.com/BikeNetKit/BikeNetLib) | 🚧 Planning | 0.5.0 | 
