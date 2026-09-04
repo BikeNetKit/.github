@@ -41,6 +41,7 @@ Development of BikeNetKit is supported by the [Innovation Fund Denmark](https://
   <td valign="center"><a href="https://github.com/marianamirandapessoa"><img src="https://avatars.githubusercontent.com/u/147063686?s=70&v=4"></td><td valign="center"><a href="https://github.com/marianamirandapessoa">Mariana Pessoa</a></td>
   </tr>
   <tr>
+  <td valign="center"><a href="https://github.com/csebastiao"><img src="https://avatars.githubusercontent.com/u/61236142?s=120" width="60"></td><td valign="center"><a href="https://github.com/csebastiao">Clément Sebastiao</a></td>
   <td valign="center"><a href="https://github.com/mszell"><img src="https://avatars.githubusercontent.com/u/9054982?s=120" width="60"></td><td valign="center"><a href="https://github.com/mszell">Michael Szell</a></td>
   <td valign="center"><a href="https://github.com/anastassiavybornova"><img src="https://avatars.githubusercontent.com/u/73348979?s=120" width="60"></td><td valign="center"><a href="https://github.com/anastassiavybornova">Anastassia Vybornova</a></td>
   </tr>
