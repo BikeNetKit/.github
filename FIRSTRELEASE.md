@@ -39,6 +39,7 @@ tests:
         - "*"
 ```
 - [ ] Add the recipe and license to a new PR in the [staged-recipes](https://github.com/conda-forge/staged-recipes)
+- [ ] Reply `@conda-forge/help-python, ready for review!` This will add the labels `Python` and `review-requested`.
 - [ ] Wait for reviewers to approve (can take weeks!): https://conda-forge.org/docs/maintainer/adding_pkgs/#feedback-and-revision
 
 To make a new release, follow [NEWRELEASE.md](NEWRELEASE.md).
