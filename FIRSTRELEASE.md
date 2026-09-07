@@ -25,8 +25,8 @@ Follow the steps below in order to setup releases in a BikeNetKit repo with pack
 
 ## Set up Github releases (with sphinx docs)
 - [ ] Add and configure `PACKAGENAME/_version.py`
-- [ ] Add and configure `docs/changelog.md`
-- [ ] Add and configure `docs/conf.py`
+- [ ] Add and configure `docs/source/changelog.md`
+- [ ] Add and configure `docs/source/conf.py`
 
 ## Set up conda releases
 - [ ] Generate the `recipe.yaml` (v1) with these grayskull commands: https://conda-forge.org/docs/maintainer/adding_pkgs/#generating-the-recipe
