@@ -1,5 +1,5 @@
 # Let's build bike networks that work!
-![Cycling infrastructure](_static/banner_bikenetkit.png)
+[![Cycling infrastructure](_static/banner_bikenetkit.png)](https://bikenetkit.org/)
 People want to bike and do it safely. To make it happen, cities must provide well connected networks of protected bicycle infrastructure. Yet, politicians often neglect their citizens, not building for cycling at all, or without a plan.
 
 ## 🛠️ The toolkit to design and improve bike networks
