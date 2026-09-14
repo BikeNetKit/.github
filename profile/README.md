@@ -21,7 +21,7 @@ To fulfil our 2026 grant deliverables, the below tools will be usable and packag
 | [FixBikeNet](https://github.com/BikeNetKit/FixBikeNet) | 🚧 Beta | 0.8.1 | 
 | [LinkBikeNet](https://github.com/BikeNetKit/LinkBikeNet) | 🚧 Alpha | 0.7.2 | 
 | [SortBikeNet](https://github.com/BikeNetKit/SortBikeNet) | 🚧 Alpha | 0.5.0 | 
-| [BikeNetLib](https://github.com/BikeNetKit/BikeNetLib) | 🚧 Planning | 0.5.0 | 
+| [BikeNetLib](https://github.com/BikeNetKit/BikeNetLib) | 🚧 Alpha | 0.5.0 | 
 
 ## 🙋 FAQ
 For more explanations, see our: [Frequently Asked Questions](https://github.com/BikeNetKit/.github/blob/main/FAQ.md#bikenetkit-faq)
