@@ -1,5 +1,5 @@
 # Let's build bike networks that work!
-![Cycling infrastructure](_static/banner_bikenetkit.png)
+[![Cycling infrastructure](_static/banner_bikenetkit.png)](https://bikenetkit.org/)
 People want to bike and do it safely. To make it happen, cities must provide well connected networks of protected bicycle infrastructure. Yet, politicians often neglect their citizens, not building for cycling at all, or without a plan.
 
 ## 🛠️ The toolkit to design and improve bike networks
@@ -21,7 +21,7 @@ To fulfil our 2026 grant deliverables, the below tools will be usable and packag
 | [FixBikeNet](https://github.com/BikeNetKit/FixBikeNet) | 🚧 Beta | 0.8.1 | 
 | [LinkBikeNet](https://github.com/BikeNetKit/LinkBikeNet) | 🚧 Alpha | 0.7.2 | 
 | [SortBikeNet](https://github.com/BikeNetKit/SortBikeNet) | 🚧 Alpha | 0.5.0 | 
-| [BikeNetLib](https://github.com/BikeNetKit/BikeNetLib) | 🚧 Planning | 0.5.0 | 
+| [BikeNetLib](https://github.com/BikeNetKit/BikeNetLib) | 🚧 Alpha | 0.5.0 | 
 
 ## 🙋 FAQ
 For more explanations, see our: [Frequently Asked Questions](https://github.com/BikeNetKit/.github/blob/main/FAQ.md#bikenetkit-faq)
