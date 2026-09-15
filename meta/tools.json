@@ -22,7 +22,6 @@
 			"requirements": "Python>=3.12",
 		},
 		"docs": "https://docs.bikenetkit.org/GrowBikeNet/",
-		// "existingViz": "https://growbike.net",
 		"paper": {
 			"title": "Growing urban bicycle networks",
 			"authors": "M. Szell, S. Mimar, T. Perlman, G. Ghoshal, R. Sinatra",
@@ -53,7 +52,6 @@
 			"requirements": "Python>=3.12",
 		},
 		"docs": "https://docs.bikenetkit.org/FixBikeNet/",
-		// "existingViz": "https://fixbike.net",
 		"paper": {
 			"title": "Automated Detection of Missing Links in Bicycle Networks",
 			"authors": "A. Vybornova, T. Cunha, A. Gühnemann, M. Szell",
@@ -95,7 +93,7 @@
 		"name": "SortBikeNet",
 		"slug": "sortbikenet",
 		"shortDescription": "Determine the best sequence for implementing a bicycle network plan.",
-		"longDescription": "SortBikeNet tackles the sequencing problem: given a plan to build a bicycle network, in what order should segments be constructed to arrive at a functional network as soon as possible? The tool evaluates different construction orderings and has shown that optimal sequencing can yield at least a 3× better return on investment compared to how cities actually build their networks. It helps planners create phased implementation plans that deliver connectivity gains from the very first kilometer built.",
+		"longDescription": "SortBikeNet tackles the sequencing problem: Given a plan to build a bicycle network, in what order should segments be constructed to arrive at a functional network as soon as possible? The tool evaluates different construction orderings and has shown that optimal sequencing can yield at least a 3× better return on investment compared to how cities actually build their networks. It helps planners create phased implementation plans that deliver connectivity gains from the very first kilometer built.",
 		"category": "interactive",
 		"status": "coming-soon",
 		"repo": "https://github.com/BikeNetKit/SortBikeNet",
@@ -138,7 +136,7 @@
 		"name": "BikeNetLib",
 		"slug": "bikenetlib",
 		"shortDescription": "The shared Python toolkit with general bicycle network utilities that powers the rest of the BikeNetKit family.",
-		"longDescription": "BikeNetLib is the core utility package underpinning the BikeNetKit family of tools — shared input/output, network-analysis utilities, and visualization helpers built on OSMnx and GeoPandas, so GrowBikeNet, FixBikeNet, LinkBikeNet and the others don't each reimplement the same bicycle-network plumbing. It also provides general tools useful for anybody working with bicycle networks. BikeNetLib is developer/researcher-facing infrastructure rather than a standalone analysis: there is no visualization or dataset of its own, only a growing, documented API for anyone building on top of the family's tools. It is currently in early development.",
+		"longDescription": "BikeNetLib is the core utility package underpinning the BikeNetKit family of tools — shared input/output, network-analysis utilities, and visualization helpers built on OSMnx and GeoPandas, so GrowBikeNet, FixBikeNet, LinkBikeNet and the others don't each reimplement the same bicycle-network plumbing. It also provides general tools useful for anybody working with bicycle networks. BikeNetLib is developer/researcher-facing infrastructure rather than a standalone analysis: there is no visualization or dataset of its own, only a growing, documented API for anyone working with bicycle network data or building on top of the family's tools. It is currently in early development.",
 		"category": "static",
 		"status": "active",
 		"repo": "https://github.com/BikeNetKit/BikeNetLib"
