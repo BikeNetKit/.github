@@ -19,7 +19,7 @@
 			"title": "Install & Run it yourself",
 			"language": "bash",
 			"code": "conda install growbikenet\npython\nimport growbikenet as gbn\ngbn.growbikenet('Lyon')",
-			"requirements": "Python>=3.12",
+			"requirements": "Python>=3.12"
 		},
 		"docs": "https://docs.bikenetkit.org/GrowBikeNet/",
 		"paper": {
@@ -43,13 +43,15 @@
 			"defaultMetric": "gap",
 			"defaultType": "network"
 		},
-		"renderConfig": { "lineWidthRange": [2, 4] },
+		"renderConfig": {
+			"lineWidthRange": [2, 4]
+		},
 		"repo": "https://github.com/BikeNetKit/FixBikeNet",
 		"usage": {
 			"title": "Install & Run it yourself",
 			"language": "bash",
 			"code": "conda install fixbikenet\npython\nimport fixbikenet as fbn\nfbn.fixbikenet('Frederiksberg Municipality')",
-			"requirements": "Python>=3.12",
+			"requirements": "Python>=3.12"
 		},
 		"docs": "https://docs.bikenetkit.org/FixBikeNet/",
 		"paper": {
@@ -73,13 +75,15 @@
 			"defaultMetric": "largest_closest",
 			"defaultType": "network"
 		},
-		"renderConfig": { "lineWidthRange": [1, 4] },
+		"renderConfig": {
+			"lineWidthRange": [1, 4]
+		},
 		"repo": "https://github.com/BikeNetKit/LinkBikeNet",
 		"usage": {
 			"title": "Install & Run it yourself",
 			"language": "bash",
 			"code": "conda install linkbikenet\npython\nimport linkbikenet as lbn\nlbn.linkbikenet('Budapest')",
-			"requirements": "Python>=3.12",
+			"requirements": "Python>=3.12"
 		},
 		"paper": {
 			"title": "Data-driven strategies for optimal bicycle network growth",
@@ -96,7 +100,7 @@
 		"longDescription": "SortBikeNet tackles the sequencing problem: Given a plan to build a bicycle network, in what order should segments be constructed to arrive at a functional network as soon as possible? The tool evaluates different construction orderings and has shown that optimal sequencing can yield at least a 3× better return on investment compared to how cities actually build their networks. It helps planners create phased implementation plans that deliver connectivity gains from the very first kilometer built.",
 		"category": "interactive",
 		"status": "coming-soon",
-		"repo": "https://github.com/BikeNetKit/SortBikeNet",
+		"repo": "https://github.com/BikeNetKit/SortBikeNet"
 	},
 	{
 		"name": "superblockify",
@@ -120,8 +124,8 @@
 		"usage": {
 			"title": "Install & Run it yourself",
 			"language": "bash",
-			"code": "conda install superblockify\npython\nimport superblockify as sb\nsb.ResidentialPartitioner(city_name='Scheveningen',search_str='Scheveningen, NL).run()",
-			"requirements": "Python>=3.10",
+			"code": "conda install superblockify\npython\nimport superblockify as sb\nsb.ResidentialPartitioner(\n    city_name='Scheveningen',\n    search_str='Scheveningen, NL',\n).run()",
+			"requirements": "Python>=3.10"
 		},
 		"docs": "https://superblockify.city",
 		"paper": {
@@ -148,6 +152,7 @@
 		"longDescription": "MoveBikeNet uses computer vision and computational desire line analysis to understand actual cycling movement patterns. By analyzing observed trajectories from a video, it reveals where cyclists want to ride versus where infrastructure currently exists. The approach was originally demonstrated at the Dybbølsbro intersection in Copenhagen, one of Europe's busiest cycling junctions, showing how desire lines can inform intersection redesign and network planning.",
 		"category": "static",
 		"status": "active",
+		"external": true,
 		"repo": "https://github.com/SimonBreum/desirelines",
 		"paper": {
 			"title": "Computational Desire Line Analysis of Cyclists on the Dybbølsbro Intersection in Copenhagen",
@@ -164,6 +169,7 @@
 		"longDescription": "BikeDNA is a tool for bicycle infrastructure data and network assessment. It compares OpenStreetMap bicycle data against official reference datasets at both global and local (grid cell) levels, measuring completeness, accuracy, and structural quality. The analysis produces interactive maps and reports. A \"BIG\" variant handles large-scale datasets. BikeDNA helps planners understand how reliable their data is before making infrastructure decisions.",
 		"category": "static",
 		"status": "active",
+		"external": true,
 		"repo": "https://github.com/anerv/BikeDNA",
 		"paper": {
 			"title": "BikeDNA: A Tool for Bicycle Infrastructure Data & Network Assessment",
@@ -180,6 +186,7 @@
 		"longDescription": "StretchBikeNet addresses the challenge of designing cohesive urban bicycle infrastructure by modeling the city as a multilayer transport network. Using optimal transport routing, it identifies which corridors should be widened or upgraded to maximize cycling utility while accounting for interactions with other transport modes. The approach balances the trade-off between bicycle and car infrastructure, producing investment plans that improve the overall coherence of the cycling network.",
 		"category": "static",
 		"status": "active",
+		"external": true,
 		"repo": "https://github.com/cdebacco/MultiOT",
 		"paper": {
 			"title": "Cohesive urban bicycle infrastructure design through optimal transport routing in multilayer networks",
@@ -196,6 +203,7 @@
 		"longDescription": "BikeNodePlanner is a decision-support tool for planning bicycle node networks — the numbered-signpost wayfinding systems that guide recreational cyclists along existing infrastructure. It runs in QGIS and Python and works for any study area. Planners feed it a draft network plan plus curated local geodata — land use, amenities, points of interest, elevation — and it returns a network analysis and a customisable evaluation against best-practice design criteria, both explorable interactively in QGIS. The result highlights the stretches that are too steep, too remote from services, or too poorly connected, so the plan can be adjusted before anything is signposted. It was built for users with minimal GIS experience, in a collaboration between Dansk Kyst- og Naturturisme and the IT University of Copenhagen to develop a country-wide bicycle node network for Denmark.",
 		"category": "static",
 		"status": "active",
+		"external": true,
 		"repo": "https://github.com/anastassiavybornova/bike-node-planner",
 		"paper": {
 			"title": "BikeNodePlanner: A data-driven decision support tool for bicycle node network planning",
@@ -212,6 +220,7 @@
 		"longDescription": "LoopBikeNet assesses the quality of a bicycle node network through loop census analysis. Rather than measuring the network segment by segment, it enumerates the closed round trips the network offers and characterises each by length, gradient, and the features along the way — the quantity that actually matters to a recreational cyclist choosing a day out. Applied to Denmark's 28,215 km country-wide node network, it revealed high heterogeneity and local clusters in node density, loop lengths, gradients and feature-rich areas: experienced cyclists have an abundance of options, while families with small children are sharply constrained by loop length and hilliness — a gap that e-bikes could close. The analysis runs on networks prepared with BikeNodePlanner.",
 		"category": "static",
 		"status": "active",
+		"external": true,
 		"repo": "https://github.com/mszell/bikenwloops",
 		"paper": {
 			"title": "Quality assessment of a country-wide bicycle node network with loop census analysis",
@@ -227,6 +236,7 @@
 		"shortDescription": "Grow the network neighbourhood by neighbourhood, linking low-traffic areas into one safe cycling web.",
 		"longDescription": "HoodBikeNet extends bicycle network growth strategies to incorporate Low Traffic Neighbourhoods (LTNs). It combines modal filtering — restricting through-traffic in residential areas — with strategic bicycle network expansion, prioritizing connections between LTNs and existing cycling infrastructure. The tool helps planners maximize safe cycling coverage with minimal investment by leveraging the traffic-calmed environment that LTNs already provide.",
 		"category": "static",
-		"status": "active"
-	},
+		"status": "active",
+		"external": true
+	}
 ]
