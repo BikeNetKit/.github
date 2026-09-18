@@ -1,6 +1,9 @@
 # BikeNetKit FAQ
 Frequently asked questions about [BikeNetKit](https://bikenetkit.org/).
 
+## What is BikeNetKit?
+BikeNetKit is a collection of free, open-source Python software tools to help plan and develop bicycle networks. It comes with an interactive visualization platform at [bikenetkit.org](https://bikenetkit.org/).
+
 ## Why does BikeNetKit exist?
 BikeNetKit exists for an ultimate and for a practical reason. 
 
