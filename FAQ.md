@@ -17,7 +17,10 @@ BikeNetKit is an alternative to extractive practices of bicycle network planning
 To prevent extractive use and to keep BikeNetKit's results always transparent and reproducible, it uses the [AGPL license](https://choosealicense.com/licenses/agpl-3.0/) which ensures that all derivations of the software must disclose their source code.
 
 ## How can I help to make BikeNetKit better?
-From easiest to most specialized:
+
+We are especially interested in *feedback from planners*, to make BikeNetKit as useful as possible for making a real change in cities: What is missing, what could be better? Please let us know at: contact@bikenetkit.org
+
+Apart from that, you can help in many ways, from easiest to most specialized:
 
 - Follow us on social media: [Mastodon](https://fosstodon.org/@bikenetkit) • [BlueSky](https://bsky.app/profile/bikenetkit.bsky.social) • [LinkedIn](https://www.linkedin.com/company/bikenetkit)
 - Follow us on Github and "star" our repositories: [Github](https://github.com/BikeNetKit) • [BikeNetKit repositories](https://github.com/orgs/BikeNetKit/repositories)
