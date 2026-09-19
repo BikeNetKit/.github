@@ -11,8 +11,8 @@ People want to bike and do it safely. To make it happen, cities must provide wel
 ## 🤝 Contributing to the ecosystem
 We started developing `BikeNetKit` in 2026. It uses a copyleft license, ensuring it will always stay free and reproducible. Development support by the community is very welcome! 👉 [How to contribute](../CONTRIBUTING.md)
 
-## 🚧 Development status
-To fulfil our 2026 grant deliverables, the below tools will be usable and packaged by 2026-12-31. By then we will also have an interactive visualization platform running at [bikenetkit.org](https://bikenetkit.org/). We will develop and maintain `BikeNetKit` beyond 2026.
+## 🚧 Development status & Roadmap
+The below tools are already usable and packaged, though mostly still under development. By November 2026 we will launch an interactive visualization platform running at [bikenetkit.org](https://bikenetkit.org/). We will develop, extend, and maintain `BikeNetKit` beyond 2026.
 
 | Tool | Status | Version |
 | ---------- | -------- | :------: | 
