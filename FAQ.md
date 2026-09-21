@@ -57,6 +57,9 @@ The original raw algorithms behind some of BikeNetKit's software was not useful 
 
 If you would like to use BikeNetKit for such concrete tasks but run into limitations, please let us know! We would love to improve our software to be as useful as possible.
 
+## Why does bikenekit.org show weird results for some cities?
+The platform [bikenekit.org](https://bikenetkit.org/) visualizes the results of BikeNetKit for 400+ European cities, *running the tools with their default settings*. These default settings usually produce reasonable results, but sometimes they don't because local context is missing. For example, a human user might use a BikeNetKit tool's possibilities to import custom data sets, to naturally limit the study area to a city's populated areas, to only consider a certain set of streets for bicycle network growth, or to otherwise configure the tool's settings to make the outcome more realistic.
+
 ## How did you evaluate BikeNetKit's results, for example with Strava data of cyclist flows?
 Such cyclist mobility data is a reflection of the existing underlying cycling infrastructure (or lack of it). It is thus carrying strong survivorship bias, apart from other biases. Therefore, such data cannot be used for evaluation. It is not the point of BikeNetKit to reinforce the existing status quo, but to fix or extend existing infrastructure, or to propose good infrastructure from scratch. BikeNetKit's approach thus follows the OECD's recommendation to replace the outdated "predict and provide" planning paradigm with the vision-led "decide and provide" principle.
 
