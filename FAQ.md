@@ -27,9 +27,9 @@ BikeNetKit provides tools from the research community as a public good that city
 <details>
 <summary><i>Advanced answer for planners & experts</i></summary>
 <hr>
-BikeNetKit is an alternative to extractive practices of bicycle network planning where cities outsource their know-how, often spending extensive amounts of public money to consultancies that use proprietary tools to prepare a one-off report. While such one-off reports can be valuable, this mode of operation comes with the danger of creating a perpetual cycle of follow-up contracts, vendor lock-ins, and declining competence within city administrations. This declining internal competence can vaporize solidarity among residents and their city administration, hindering collective action.
+BikeNetKit is an alternative to extractive practices of bicycle network planning where cities outsource their know-how, often spending extensive amounts of public money to consultancies that use proprietary tools to prepare a one-off report. While such one-off reports can be valuable, this mode of operation comes with the danger of creating a perpetual cycle of follow-up contracts, vendor lock-ins, and declining competence within city administrations. This declining internal competence can vaporize solidarity among residents and their city administration, hindering collective action.  
 
-BikeNetKit provides an alternative: It provides free, open-source software as a public good developed in a community effort, which cities or proactive citizens can use *directly* to explore and revisit many different scenarios of bicycle network development. This exploration is also data-driven and fully customizable, as cities can import their own data sets such as traffic crash or mobility data to adapt the software to their own needs. 
+BikeNetKit provides an alternative: It provides free, open-source software as a public good developed in a community effort, which cities or proactive citizens can use *directly* to explore and revisit many different scenarios of bicycle network development. This exploration is also data-driven and fully customizable, as cities can import their own data sets such as traffic crash or mobility data to adapt the software to their own needs.  
 
 To prevent extractive use and to keep BikeNetKit's results always transparent and reproducible, it uses the [AGPL license](https://choosealicense.com/licenses/agpl-3.0/) which ensures that all derivations of the software must disclose their source code.
 <hr>
@@ -45,7 +45,7 @@ As a citizen, you can help us spread the word:
 <details>
 <summary><i>Advanced answer for planners & experts</i></summary>
 <hr>
-We are especially interested in *feedback from planners*, to make BikeNetKit as useful as possible for making a real change in cities: What is missing, what could be better? Please let us know at: contact@bikenetkit.org
+We are especially interested in *feedback from planners*, to make BikeNetKit as useful as possible for making a real change in cities: What is missing, what could be better? Please let us know at: contact@bikenetkit.org  
 
 If you are familiar with Python, please feel free to:  
 
@@ -85,9 +85,9 @@ Connected, safe bike routes are well-proven to make cycling easier and safer. Bu
 <details>
 <summary><i>Advanced answer for planners & experts</i></summary>
 <hr>
-Implementing a bicycle network is in general a good idea as it allows many citizens to cycle and to improve their quality of life, but the devil is in the details. For example, Copenhagen's cohesive network of protected bicycle lanes allows many people to cycle, which makes it a successful cycling city. However, this design also leaves out children, elderly, or anyone who feels unsafe cycling through unprotected intersections or next to fast mopeds or electric bikes. This kind of bicycle network does successfully reduce traffic risk, but it does not remove it.
+Implementing a bicycle network is in general a good idea as it allows many citizens to cycle and to improve their quality of life, but the devil is in the details. For example, Copenhagen's cohesive network of protected bicycle lanes allows many people to cycle, which makes it a successful cycling city. However, this design also leaves out children, elderly, or anyone who feels unsafe cycling through unprotected intersections or next to fast mopeds or electric bikes. This kind of bicycle network does successfully reduce traffic risk, but it does not remove it.  
 
-Therefore, before implementing any particular kind of bike lane or local measure as a network, which can take decades, more global approaches should be prioritized. For example, it is much more effective to reduce speed limits or to implement measures that remove vehicular traffic, like road pricing. In the end there is not one "best" approach, but it is a good idea to try several different things.
+Therefore, before implementing any particular kind of bike lane or local measure as a network, which can take decades, more global approaches should be prioritized. For example, it is much more effective to reduce speed limits or to implement measures that remove vehicular traffic, like road pricing. In the end there is not one "best" approach, but it is a good idea to try several different things.  
 
 We discourage the term "solution" as it implies that there is a technical fix to a well-defined problem, a.k.a. techno-solutionism. As the world is a complex socio-technical system, this is not the case. 
 <hr>
@@ -109,7 +109,7 @@ BikeNetKit's goal is to be useful for planning real bike networks.
 <details>
 <summary><i>Advanced answer for planners & experts</i></summary>
 <hr>
-The original raw algorithms behind some of BikeNetKit's software was not useful for concrete planning tasks, as it provided statistical, unrefined outputs on a city-wide scale without an aspiration for concrete recommendations. However, one goal of BikeNetKit is to expand those original algorithms into useful tools that allow the incorporation of local knowledge and data, and of tweaking details, in order to become useful for concrete planning tasks.
+The original raw algorithms behind some of BikeNetKit's software was not useful for concrete planning tasks, as it provided statistical, unrefined outputs on a city-wide scale without an aspiration for concrete recommendations. However, one goal of BikeNetKit is to expand those original algorithms into useful tools that allow the incorporation of local knowledge and data, and of tweaking details, in order to become useful for concrete planning tasks.  
 
 If you would like to use BikeNetKit for such concrete tasks but run into limitations, please let us know! We would love to improve our software to be as useful as possible.
 <hr>
@@ -123,9 +123,9 @@ The platform [bikenekit.org](https://bikenetkit.org/) is built on map data that 
 <hr>
 There are several reasons why some results can look "weird". 
 
-1) BikeNetKit relies on OpenStreetMap data which is of very high coverage and quality in Europe, but can still contain mistakes or inaccuracies. If you spot OpenStreetMap issues, please feel free to update the data set yourself and let us know - after all it is crowdsourced data.
+1) BikeNetKit relies on OpenStreetMap data which is of very high coverage and quality in Europe, but can still contain mistakes or inaccuracies. If you spot OpenStreetMap issues, please feel free to update the data set yourself and let us know - after all it is crowdsourced data.  
 
-2) The platform [bikenekit.org](https://bikenetkit.org/) visualizes the results of BikeNetKit for 400+ European cities, *running the tools with their default settings*. These default settings usually produce reasonable results, but sometimes they don't because local context is missing. For example, a human user might use a BikeNetKit tool's possibilities to import custom data sets, to naturally limit the study area to a city's populated areas, to only consider a certain set of streets for bicycle network growth, or to otherwise configure the tool's settings to make the outcome more realistic.
+2) The platform [bikenekit.org](https://bikenetkit.org/) visualizes the results of BikeNetKit for 400+ European cities, *running the tools with their default settings*. These default settings usually produce reasonable results, but sometimes they don't because local context is missing. For example, a human user might use a BikeNetKit tool's possibilities to import custom data sets, to naturally limit the study area to a city's populated areas, to only consider a certain set of streets for bicycle network growth, or to otherwise configure the tool's settings to make the outcome more realistic.  
 
 3) It is possible that BikeNetKit could be improved, for example to update its default definition of protected bicycle infrastructure. If you can think of improvements, please let us know!
 <hr>
@@ -137,7 +137,7 @@ Our research evaluated BikeNetKit's tools as well as we could. In general, we ai
 <details>
 <summary><i>Advanced answer for planners & experts</i></summary>
 <hr>
-Such cyclist mobility data is a reflection of the existing underlying cycling infrastructure (or lack of it). It is thus carrying strong survivorship bias, apart from other biases. Therefore, such data cannot be used for evaluation. It is not the point of BikeNetKit to reinforce the existing status quo, but to fix or extend existing infrastructure, or to propose good infrastructure from scratch. BikeNetKit's approach thus follows [the OECD's recommendation](https://www.oecd.org/en/publications/transport-strategies-for-net-zero-systems-by-design_0a20f779-en.html) to replace the outdated "predict and provide" planning paradigm with the vision-led "decide and provide" principle.
+Such cyclist mobility data is a reflection of the existing underlying cycling infrastructure (or lack of it). It is thus carrying strong survivorship bias, apart from other biases. Therefore, such data cannot be used for evaluation. It is not the point of BikeNetKit to reinforce the existing status quo, but to fix or extend existing infrastructure, or to propose good infrastructure from scratch. BikeNetKit's approach thus follows [the OECD's recommendation](https://www.oecd.org/en/publications/transport-strategies-for-net-zero-systems-by-design_0a20f779-en.html) to replace the outdated "predict and provide" planning paradigm with the vision-led "decide and provide" principle.  
 
 That being said, we have attempted validations of our approaches in [our research](#what-is-your-expertise-on-the-topic) whenever possible, for example showing that GrowBikeNet indeed recreates well the existing bicycle network in Copenhagen, or that FixBikeNet indeed tends to suggest filling gaps where citizens ask for it. For this reason, some tools of BikeNetKit allow the incorporation of custom data (like mobility or citizen surveys) to shape their results.
 <hr>
@@ -149,11 +149,11 @@ BikeNetKit was developed by mobility experts with a background in network scienc
 <details>
 <summary><i>Advanced answer for planners & experts</i></summary>
 <hr>
-Most tools of BikeNetKit are built on network science concepts like directness or betweenness (a proxy for flow), but do not use a classic transport modelling approach because that is not the best approach and level of detail for the goal of city-wide transformation through bicycle networks. 
+Most tools of BikeNetKit are built on network science concepts like directness or betweenness (a proxy for flow), but do not use a classic transport modelling approach because that is not the best approach and level of detail for the goal of city-wide transformation through bicycle networks.  
 
-Transport modelling has its place for certain applications, but in state-of-the-art sustainable city planning and systems design, the short-term dynamics or predictions studied by engineering approaches like transport modelling are overtrumped by long-term behavioral effects due to mode shift elasticity: Induced demand posits that the development of a functional cycling infrastructure will generally drive a modal shift towards cycling, while the reclamation of ineffectively used automobile space will naturally lead to disappearing traffic.
+Transport modelling has its place for certain applications, but in state-of-the-art sustainable city planning and systems design, the short-term dynamics or predictions studied by engineering approaches like transport modelling are overtrumped by long-term behavioral effects due to mode shift elasticity: Induced demand posits that the development of a functional cycling infrastructure will generally drive a modal shift towards cycling, while the reclamation of ineffectively used automobile space will naturally lead to disappearing traffic.  
 
-For sustainable transport system planning, the so far prevalent "predict and provide" planning paradigm, which focuses on providing roads for flow and is inherent in transport modelling, is being replaced with the vision-led, system-level "decide and provide" principle. For more explanations, see the OECD document [Transport Strategies for Net‑Zero Systems by Design](https://www.oecd.org/en/publications/transport-strategies-for-net-zero-systems-by-design_0a20f779-en.html).
+For sustainable transport system planning, the so far prevalent "predict and provide" planning paradigm, which focuses on providing roads for flow and is inherent in transport modelling, is being replaced with the vision-led, system-level "decide and provide" principle. For more explanations, see the OECD document [Transport Strategies for Net‑Zero Systems by Design](https://www.oecd.org/en/publications/transport-strategies-for-net-zero-systems-by-design_0a20f779-en.html).  
 
 That being said, some BikeNetKit tools allow to go beyond betweenness-based flow modelling, for example to import Origin-Destination data.
 <hr>
@@ -212,7 +212,7 @@ Our key publications are:
 - [Breum, Kostic & Szell, Findings 56683 (2022)](https://findingspress.org/article/56683-computational-desire-line-analysis-of-cyclists-on-the-dybbolsbro-intersection-in-copenhagen)
 - [Natera et al, R Soc Open Sci 7 (2020)](https://royalsocietypublishing.org/doi/10.1098/rsos.201130)
 
-Our research builds on planning guidelines like the Dutch CROW Design manual for bicycle traffic, and was performed in collaboration with practitioners such as [Dansk Kyst- og Naturturisme](https://www.kystognaturturisme.dk/) or urban planners from different cities in the EU Horizon Project [JUST STREETS](https://www.just-streets.eu/).
+Our research builds on planning guidelines like the Dutch CROW Design manual for bicycle traffic, and was performed in collaboration with practitioners such as [Dansk Kyst- og Naturturisme](https://www.kystognaturturisme.dk/) or urban planners from different cities in the EU Horizon Project [JUST STREETS](https://www.just-streets.eu/).  
 
 Funders of this research include: The Danish Ministry of Transport, the EU Horizon Project [JUST STREETS](https://www.just-streets.eu/). The development of BikeNetKit is now also funded by the Innovation Fund Denmark.
 <hr>
