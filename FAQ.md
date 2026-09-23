@@ -85,11 +85,11 @@ Connected, safe bike routes are well-proven to make cycling easier and safer. Bu
 <details>
 <summary><i>Advanced answer for planners & experts</i></summary>
 <hr>
-Implementing a bicycle network is in general a good idea as it allows many citizens to cycle and to improve their quality of life, but the devil is in the details. For example, Copenhagen's cohesive network of protected bicycle lanes allows many people to cycle, which makes it a successful cycling city. However, this design also leaves out children, elderly, or anyone who feels unsafe cycling through unprotected intersections or next to fast mopeds or electric bikes. This kind of bicycle network does successfully reduce traffic risk, but it does not remove it.  
+<p>Implementing a bicycle network is in general a good idea as it allows many citizens to cycle and to improve their quality of life, but the devil is in the details. For example, Copenhagen's cohesive network of protected bicycle lanes allows many people to cycle, which makes it a successful cycling city. However, this design also leaves out children, elderly, or anyone who feels unsafe cycling through unprotected intersections or next to fast mopeds or electric bikes. This kind of bicycle network does successfully reduce traffic risk, but it does not remove it.</p> 
 
-Therefore, before implementing any particular kind of bike lane or local measure as a network, which can take decades, more global approaches should be prioritized. For example, it is much more effective to reduce speed limits or to implement measures that remove vehicular traffic, like road pricing. In the end there is not one "best" approach, but it is a good idea to try several different things.  
+<p>Therefore, before implementing any particular kind of bike lane or local measure as a network, which can take decades, more global approaches should be prioritized. For example, it is much more effective to reduce speed limits or to implement measures that remove vehicular traffic, like road pricing. In the end there is not one "best" approach, but it is a good idea to try several different things.</p> 
 
-We discourage the term "solution" as it implies that there is a technical fix to a well-defined problem, a.k.a. techno-solutionism. As the world is a complex socio-technical system, this is not the case. 
+<p>We discourage the term "solution" as it implies that there is a technical fix to a well-defined problem, a.k.a. techno-solutionism. As the world is a complex socio-technical system, this is not the case.</p>
 <hr>
 </details>
 
