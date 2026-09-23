@@ -9,7 +9,7 @@ We developed BikeNetKit because most cities do not have a well-connected network
 
 <details>
 <summary><i>Advanced answer for planners & experts</i></summary>
-> [!Advanced answer for planners & experts]  
+> [!NOTE]  
 > Lorem ipsum.
 
 BikeNetKit exists for an ultimate and for a practical reason. 
