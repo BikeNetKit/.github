@@ -10,6 +10,7 @@ We developed BikeNetKit because most cities do not have a well-connected network
 <details>
 <summary><i>Advanced answer for planners & experts</i></summary>
 <hr>
+
 BikeNetKit exists for an ultimate and for a practical reason.  
 
 Ultimately, most cities on the planet do not offer infrastructure for safe cycling, at least no [*functional*](#when-is-a-bicycle-network-functional) infrastructure, despite the latent demand of many people who want to do so. Enabling people to cycle has massive societal benefits from environmental to public health. Increasing cycling while reducing the harm by cars is also the most effective approach to tackle fundamental issues in mobility and urban planning, [much more than "solutions" pushed by corporate interests like electric cars](https://theconversation.com/cycling-is-ten-times-more-important-than-electric-cars-for-reaching-net-zero-cities-157163).
@@ -27,6 +28,7 @@ BikeNetKit provides tools from the research community as a public good that city
 <details>
 <summary><i>Advanced answer for planners & experts</i></summary>
 <hr>
+
 BikeNetKit is an alternative to extractive practices of bicycle network planning where cities outsource their know-how, often spending extensive amounts of public money to consultancies that use proprietary tools to prepare a one-off report. While such one-off reports can be valuable, this mode of operation comes with the danger of creating a perpetual cycle of follow-up contracts, vendor lock-ins, and declining competence within city administrations. This declining internal competence can vaporize solidarity among residents and their city administration, hindering collective action.  
 
 BikeNetKit provides an alternative: It provides free, open-source software as a public good developed in a community effort, which cities or proactive citizens can use *directly* to explore and revisit many different scenarios of bicycle network development. This exploration is also data-driven and fully customizable, as cities can import their own data sets such as traffic crash or mobility data to adapt the software to their own needs.  
@@ -45,6 +47,7 @@ As a citizen, you can help us spread the word:
 <details>
 <summary><i>Advanced answer for planners & experts</i></summary>
 <hr>
+
 We are especially interested in *feedback from planners*, to make BikeNetKit as useful as possible for making a real change in cities: What is missing, what could be better? Please let us know at: contact@bikenetkit.org  
 
 If you are familiar with Python, please feel free to:  
@@ -62,6 +65,7 @@ A bike network is a collection of protected bike lanes or car-free streets on wh
 <details>
 <summary><i>Advanced answer for planners & experts</i></summary>
 <hr>
+
 There is no generally agreed definition of a bicycle network. However, having pioneered the field, we have a good understanding of the nuances: Here we define it broadly as the set of infrastructure elements (implemented by physical and/or legal means) which allows people of all ages and demographics to safely cycle - both subjectively and objectively. One necessary prerequisite for such infrastructure is practically no mixing with vehicular traffic.  
 
 Because this infrastructure often consists of pieces connecting places, one can think of it as a network where nodes can be intersections or places of interest and links are the infrastructure pieces inbetween them.
@@ -109,6 +113,7 @@ BikeNetKit's goal is to be useful for planning real bike networks.
 <details>
 <summary><i>Advanced answer for planners & experts</i></summary>
 <hr>
+
 The original raw algorithms behind some of BikeNetKit's software was not useful for concrete planning tasks, as it provided statistical, unrefined outputs on a city-wide scale without an aspiration for concrete recommendations. However, one goal of BikeNetKit is to expand those original algorithms into useful tools that allow the incorporation of local knowledge and data, and of tweaking details, in order to become useful for concrete planning tasks.  
 
 If you would like to use BikeNetKit for such concrete tasks but run into limitations, please let us know! We would love to improve our software to be as useful as possible.
