@@ -8,7 +8,9 @@ BikeNetKit is a collection of free, open-source Python software tools to help pl
 We developed BikeNetKit because most cities do not have a well-connected network of protected bike lanes, and our toolkit helps designing and visualizing them.
 
 <details>
-<summary><i>Advanced answer for planners & experts</i></summary>
+<summary>
+> [!Advanced answer for planners & experts]</summary>
+> Lorem ipsum.
 
 BikeNetKit exists for an ultimate and for a practical reason. 
 
