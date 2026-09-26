@@ -24,7 +24,7 @@ The below tools are already packaged and mostly usable, but also under continuou
 | [BikeNetLib](https://github.com/BikeNetKit/BikeNetLib) | 🚧 Alpha | 0.5.0 | 
 
 ## 🙋 FAQ
-For more explanations, see our Frequently Asked Questions at: [faq.bikenetkit.org](faq.bikenetkit.org)
+For more explanations, see our Frequently Asked Questions at: [faq.bikenetkit.org](https://faq.bikenetkit.org)
 
 ## 💰 Supported by
 Development of BikeNetKit is supported by the [Innovation Fund Denmark](https://innovationsfonden.dk/en), the EU HORIZON project [JUST STREETS](https://www.just-streets.eu), and the [Data Science Section](https://en.itu.dk/Research/Sections-and-research-groups/Data-Science) of IT University of Copenhagen.
