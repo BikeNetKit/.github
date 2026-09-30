@@ -58,3 +58,4 @@ Federico Battiston, Carlson M. Büth, Tiago Cunha, Ghourab Ghoshal, Astrid Gühn
 
 ### Special thanks to
 Our beta-testers: Elisabeth Meze, Christoph Steinacker, António Cunha Ferreira, João Teixeira
+Technical support: Peter Brodersen
