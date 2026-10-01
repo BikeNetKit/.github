@@ -30,14 +30,7 @@ Follow the steps below in order to setup releases in a BikeNetKit repo with pack
 
 ## Set up conda releases
 - [ ] Generate the `recipe.yaml` (v1) with these grayskull commands: https://conda-forge.org/docs/maintainer/adding_pkgs/#generating-the-recipe
-- [ ] Make sure the tests also cover the latest python version:
-```
-tests:
-  - python:
-      python_version:
-        - ${{ python_min }}.*
-        - "*"
-```
+- [ ] Add the repository link in the recipe: `repository: PATHTOREPO`
 - [ ] Add the recipe and license to a new PR in the [staged-recipes](https://github.com/conda-forge/staged-recipes)
 - [ ] Reply `@conda-forge/help-python, ready for review!` This will add the labels `Python` and `review-requested`.
 - [ ] Wait for reviewers to approve (can take weeks!): https://conda-forge.org/docs/maintainer/adding_pkgs/#feedback-and-revision
