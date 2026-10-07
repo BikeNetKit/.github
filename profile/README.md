@@ -57,4 +57,4 @@ Development of BikeNetKit is supported by the [Innovation Fund Denmark](https://
 Federico Battiston, Carlson M. Büth, Tiago Cunha, Ghourab Ghoshal, Astrid Gühnemann, Gerardo Iñiguez, Sayat Mimar, Luis G. Natera Orozco, Tyler Perlman, Clément Sebastiao, Roberta Sinatra, Michael Szell, Ane R. Vierø, Anastassia Vybornova
 
 ### Special thanks to
-Our beta-testers: Elisabeth Meze, Christoph Steinacker, António Cunha Ferreira, João Teixeira; Technical support: Peter Brodersen; All OpenStreetMap contributors
+Our beta-testers: Elisabeth Meze, Christoph Steinacker, António Cunha Ferreira, João Teixeira; Logo: Andreas Brietzke; Technical support: Peter Brodersen; All OpenStreetMap contributors
