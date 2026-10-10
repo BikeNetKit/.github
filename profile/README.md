@@ -21,7 +21,7 @@ The below tools are already packaged and mostly usable, but also under continuou
 | [FixBikeNet](https://github.com/BikeNetKit/FixBikeNet) | 🚧 Beta | 0.8.2 | 
 | [LinkBikeNet](https://github.com/BikeNetKit/LinkBikeNet) | 🚧 Beta | 0.8.4 | 
 | [SortBikeNet](https://github.com/BikeNetKit/SortBikeNet) | 🚧 Alpha | 0.5.0 | 
-| [BikeNetLib](https://github.com/BikeNetKit/BikeNetLib) | 🚧 Alpha | 0.5.0 | 
+| [BikeNetLib](https://github.com/BikeNetKit/BikeNetLib) | 🚧 Alpha | 0.6.0 | 
 
 ## 🙋 FAQ
 For more explanations, see our Frequently Asked Questions at: [faq.bikenetkit.org](https://faq.bikenetkit.org)
