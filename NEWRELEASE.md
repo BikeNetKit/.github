@@ -30,7 +30,7 @@ Follow the steps below in order to make a new release in a BikeNetKit repo with 
 - [ ] Wait for some hours until the [regro-cf-autotick-bot](https://conda-forge.org/docs/maintainer/updating_pkgs/#how-does-regro-cf-autotick-bot-create-automatic-version-updates) has discovered the new release on PyPI. Once discovered, it may still be queued for several hours or days here: https://conda-forge.org/status/#version
 - [ ] Once done, there should be a PR here with the newest release (example growbikenet): https://github.com/pulls/search?q=is%3Aopen+is%3Apr+author%3Aregro-cf-autotick-bot+archived%3Afalse+growbikenet
 - [ ] If there were no dependency and license changes, and all checks passed: Merge the PR
-- [ ] If there were dependency or license changes, or not all checks passed: Use the hub tool to push updates/fixes to the branch as needed: https://conda-forge.org/docs/maintainer/updating_pkgs/#pushing-to-regro-cf-autotick-bot-branch
+- [ ] If there were dependency or license changes, or not all checks passed: Use your conventional way of pushing updates to the pull request, or use the hub tool to push updates/fixes to the branch as needed: https://conda-forge.org/docs/maintainer/updating_pkgs/#pushing-to-regro-cf-autotick-bot-branch. To use the hub tool, an SSH key needs to be set up: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 - [ ] Once all checks have passed, merge the PR
 - [ ] Check that the new version was updated at https://anaconda.org/conda-forge/PACKAGENAME (might take a few minutes, also try browser refresh)
 - [ ] The new conda release might be installable only after some hours, despite showing up on anaconda.org
