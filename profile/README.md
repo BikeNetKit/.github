@@ -17,7 +17,7 @@ The below tools are already packaged and mostly usable, but also under continuou
 | Tool | Status | Version |
 | ---------- | -------- | :------: | 
 | [superblockify](https://github.com/BikeNetKit/superblockify) | ✅ Stable | 1.0.2 | 
-| [GrowBikeNet](https://github.com/BikeNetKit/GrowBikeNet) | 🚧 Beta | 0.15.0 | 
+| [GrowBikeNet](https://github.com/BikeNetKit/GrowBikeNet) | 🚧 Beta | 0.16.0 | 
 | [FixBikeNet](https://github.com/BikeNetKit/FixBikeNet) | 🚧 Beta | 0.9.1 | 
 | [LinkBikeNet](https://github.com/BikeNetKit/LinkBikeNet) | 🚧 Beta | 0.9.0 | 
 | [SortBikeNet](https://github.com/BikeNetKit/SortBikeNet) | 🚧 Alpha | 0.5.0 | 
