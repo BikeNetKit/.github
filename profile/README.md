@@ -12,16 +12,16 @@ People want to bike and do it safely. To make it happen, cities must provide wel
 We started developing `BikeNetKit` in 2026. It uses a copyleft license, ensuring it will always stay free and reproducible. Development support by the community is very welcome! 👉 [How to contribute](../CONTRIBUTING.md)
 
 ## 🚧 Development status & Roadmap
-The below tools are already packaged and mostly usable, but also under continuous development. By November 2026 we will launch an interactive visualization platform running at [bikenetkit.org](https://bikenetkit.org/). We will develop, extend, and maintain `BikeNetKit` beyond 2026.
+The tools are packaged and mostly feature-complete & usable, but also under continuous development. In November 2026 we will launch an interactive visualization platform running at [bikenetkit.org](https://bikenetkit.org/). We will develop, extend, and maintain `BikeNetKit` beyond 2026.
 
-| Tool | Status | Version |
-| ---------- | -------- | :------: | 
-| [superblockify](https://github.com/BikeNetKit/superblockify) | ✅ Stable | 1.0.2 | 
-| [GrowBikeNet](https://github.com/BikeNetKit/GrowBikeNet) | 🚧 Beta | 0.17.0 | 
-| [FixBikeNet](https://github.com/BikeNetKit/FixBikeNet) | 🚧 Beta | 0.10.0 | 
-| [LinkBikeNet](https://github.com/BikeNetKit/LinkBikeNet) | 🚧 Beta | 0.10.0 | 
-| [SortBikeNet](https://github.com/BikeNetKit/SortBikeNet) | 🚧 Alpha | 0.5.0 | 
-| [BikeNetLib](https://github.com/BikeNetKit/BikeNetLib) | 🚧 Beta | 0.8.1 | 
+| Tool | Version |
+| ---------- | :------: | 
+| [superblockify](https://github.com/BikeNetKit/superblockify) | 1.0.2 | 
+| [GrowBikeNet](https://github.com/BikeNetKit/GrowBikeNet) | 0.17.0 | 
+| [FixBikeNet](https://github.com/BikeNetKit/FixBikeNet) | 0.10.0 | 
+| [LinkBikeNet](https://github.com/BikeNetKit/LinkBikeNet) | 0.10.0 | 
+| [SortBikeNet](https://github.com/BikeNetKit/SortBikeNet) | 0.5.0 | 
+| [BikeNetLib](https://github.com/BikeNetKit/BikeNetLib) | 0.8.1 | 
 
 ## 🙋 FAQ & Events
 For more explanations, see our Frequently Asked Questions at: [faq.bikenetkit.org](https://faq.bikenetkit.org)  
