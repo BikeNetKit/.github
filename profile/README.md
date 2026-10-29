@@ -17,11 +17,11 @@ The tools are packaged and mostly feature-complete & usable, but also under cont
 | Tool | Version |
 | :----------: | :------: | 
 | [<img src="https://raw.githubusercontent.com/BikeNetKit/superblockify/main/assets/superblockify_logo.png" alt="superblockify" height="16"/>](https://github.com/BikeNetKit/superblockify) | 1.0.2 | 
-| [<img src="https://raw.githubusercontent.com/BikeNetKit/.github/main/profile/_static/wordmark_growbikenet.svg" alt="GrowBikeNet" height="18"/>](https://github.com/BikeNetKit/GrowBikeNet) | 0.17.0 | 
-| [<img src="https://raw.githubusercontent.com/BikeNetKit/.github/main/profile/_static/wordmark_fixbikenet.svg" alt="FixBikeNet" height="18"/>](https://github.com/BikeNetKit/FixBikeNet) | 0.10.0 | 
-| [<img src="https://raw.githubusercontent.com/BikeNetKit/.github/main/profile/_static/wordmark_linkbikenet.svg" alt="LinkBikeNet" height="18"/>](https://github.com/BikeNetKit/LinkBikeNet) | 0.10.0 | 
-| [<img src="https://raw.githubusercontent.com/BikeNetKit/.github/main/profile/_static/wordmark_sortbikenet.svg" alt="SortBikeNet" height="18"/>](https://github.com/BikeNetKit/SortBikeNet) | 0.5.0 | 
-| [<img src="https://raw.githubusercontent.com/BikeNetKit/.github/main/profile/_static/wordmark_bikenetlib.svg" alt="BikeNetLib" height="18"/>](https://github.com/BikeNetKit/BikeNetLib) | 0.8.1 | 
+| [<img src="https://raw.githubusercontent.com/BikeNetKit/.github/main/profile/_static/wordmark_growbikenet.svg" alt="GrowBikeNet" height="15"/>](https://github.com/BikeNetKit/GrowBikeNet) | 0.17.0 | 
+| [<img src="https://raw.githubusercontent.com/BikeNetKit/.github/main/profile/_static/wordmark_fixbikenet.svg" alt="FixBikeNet" height="15"/>](https://github.com/BikeNetKit/FixBikeNet) | 0.10.0 | 
+| [<img src="https://raw.githubusercontent.com/BikeNetKit/.github/main/profile/_static/wordmark_linkbikenet.svg" alt="LinkBikeNet" height="15"/>](https://github.com/BikeNetKit/LinkBikeNet) | 0.10.0 | 
+| [<img src="https://raw.githubusercontent.com/BikeNetKit/.github/main/profile/_static/wordmark_sortbikenet.svg" alt="SortBikeNet" height="15"/>](https://github.com/BikeNetKit/SortBikeNet) | 0.5.0 | 
+| [<img src="https://raw.githubusercontent.com/BikeNetKit/.github/main/profile/_static/wordmark_bikenetlib.svg" alt="BikeNetLib" height="15"/>](https://github.com/BikeNetKit/BikeNetLib) | 0.8.1 | 
 
 ## 🙋 FAQ & Events
 For more explanations, see our Frequently Asked Questions at: [faq.bikenetkit.org](https://faq.bikenetkit.org)  
