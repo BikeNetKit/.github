@@ -12,7 +12,7 @@ People want to bike and do it safely. To make it happen, cities must provide wel
 We started developing `BikeNetKit` in 2026. It uses a copyleft license, ensuring it will always stay free and reproducible. Development support by the community is very welcome! 👉 [How to contribute](../CONTRIBUTING.md)
 
 ## 🚧 Development status & Roadmap
-The tools are packaged and mostly feature-complete & usable, but also under continuous development. In November 2026 we will launch an interactive visualization platform running at [bikenetkit.org](https://bikenetkit.org/). We will develop, extend, and maintain `BikeNetKit` beyond 2026.
+The tools are packaged and mostly feature-complete & usable, but also under continuous development. On November 9th, 2026 we have launched an interactive visualization platform at [bikenetkit.org](https://bikenetkit.org/). We will develop, extend, and maintain `BikeNetKit` beyond 2026.
 
 | Tool | Version |
 | :----------: | :------: | 
@@ -58,4 +58,4 @@ Development of BikeNetKit is supported by the [Innovation Fund Denmark](https://
 Federico Battiston, Carlson M. Büth, Tiago Cunha, Ghourab Ghoshal, Astrid Gühnemann, Gerardo Iñiguez, Sayat Mimar, Luis G. Natera Orozco, Tyler Perlman, Clément Sebastiao, Roberta Sinatra, Michael Szell, Ane R. Vierø, Anastassia Vybornova
 
 ### Special thanks to
-Our beta-testers: Elisabeth Meze, Christos Konstantinou, Christoph Steinacker, António Cunha Ferreira, João Teixeira; Logo: Andreas Brietzke; Technical support: Jacob Aarup Dalsgaard, Peter Brodersen; Dissemination support: Rune Koldborg Jensen, Theis Duelund Jensen, Rina de Place Bjørn; Funding support: Thomas Hørdam, Louise Eltard-Larsen, Peter Ibsen, Christian Marcus; All OpenStreetMap contributors; Paris en Selle
+*Our beta-testers*: Elisabeth Meze, Christos Konstantinou, Christoph Steinacker, António Cunha Ferreira, João Teixeira; *Logo*: Andreas Brietzke; *Technical support*: Jacob Aarup Dalsgaard, Peter Brodersen; *Dissemination support*: Rune Koldborg Jensen, Theis Duelund Jensen, Rina de Place Bjørn; *Funding support*: Thomas Hørdam, Louise Eltard-Larsen, Peter Ibsen, Christian Marcus; *Data*: All OpenStreetMap contributors; Paris en Selle
