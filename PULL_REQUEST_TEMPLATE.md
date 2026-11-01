@@ -2,11 +2,11 @@
 
 
 
-## Related Issue
+## Related issue
 
 Fixes #(issue number)
 
-## Type of Change
+## Type of change
 
 - [ ] 🐛 Bug fix (non-breaking change that fixes an issue)
 - [ ] ✨ New feature (non-breaking change that adds functionality)
@@ -15,7 +15,7 @@ Fixes #(issue number)
 - [ ] 🧹 Code refactor (no functional changes)
 - [ ] ✅ Test update
 
-## How Has This Been Tested?
+## How has this been tested?
 
 - [ ] Unit tests
 - [ ] Integration tests
@@ -29,13 +29,8 @@ Fixes #(issue number)
 
 ## Checklist
 
-- [ ] My code follows the project's style guidelines
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have updated the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix/feature works
-- [ ] New and existing tests pass locally
+- [ ] I have read the [contributing guidelines](CONTRIBUTING.md) and have run the repository's pre-commit hooks and tests locally.
+- [ ] If this is an enhancement, I had it discussed first in a feature request issue.
 
 
-## Additional Notes
+## Additional notes (optional)
