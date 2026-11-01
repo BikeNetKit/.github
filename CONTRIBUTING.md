@@ -7,7 +7,7 @@ people like you that make BikeNetKit such a great toolkit.
 
 - [Code of Conduct](#code-of-conduct)
 - [How Can I Contribute?](#how-can-i-contribute)
-- [Human code for human use](#human-code-for-human-use)
+- [AI usage policy](#ai-usage-policy)
 - [Pull Request Process](#pull-request-process)
 
 ## Code of conduct
@@ -55,17 +55,17 @@ Before creating a new enhancement, please open a feature request issue or ask in
 [feature request template](https://github.com/BikeNetKit/.github/blob/main/.github/ISSUE_TEMPLATE/feature_request.md) that automatically pops up when you press `New issue`.
 
 
-## Human code for human use
+## AI usage policy
 
 TLDR: **No AI contributions accepted.**
 
-The goal of BikeNetKit is for people - researchers, software developers - to create tools for people - planners, researchers, engaged citizens. This goal necessitates a collaborative effort by a human community tapping into human know-how. The maintainers of this community should not be forced having to deal with technical debts from "AI slop" code, apart from [many other problems associated with such code](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html). 
+The goal of BikeNetKit is for people - researchers, software developers - to create tools for people - planners, researchers, engaged citizens. This goal necessitates a collaborative effort by a human community with limited resources. The maintainers of this community should not be burdened with reviews and technical debts of "AI slop" code, apart from [many other problems associated with such code](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html). 
 
-Therefore, BikeNetKit does not accept contributions/comments by or with assistance of large language models (LLMs)/generative AI. Maintainers may close issues, reject pull requests, or delete comments without explanation if they suspect such an origin.[^1]
+Therefore, BikeNetKit does not accept contributions/comments by or with assistance of large language models (LLMs)/generative AI tools. Maintainers may close issues, reject pull requests, or delete comments without explanation if they suspect such an origin.[^1] We are open to revising this policy at a later date, in case new tools appear that mitigate the problems of existing tools.
 
 [^1]: One singular, historic exception is the repository [`bikenetkit.org`](https://github.com/BikeNetKit/bikenetkit.org) for the already finished visualization platform, developed by one contractor who used LLM-assistance.
 
-Thus, when approaching BikeNetKit for the first time, through an issue or pull request, please let us know 1) What motivates you to contribute, and 2) How you would use the software yourself. ❤️ We would love to know how people like you engage with BikeNetKit! 
+Thus, when approaching BikeNetKit for the first time, through an issue or pull request, please let us know 1) What motivates you to contribute, and 2) How you use the software yourself. ❤️ We would love to know how people like you engage with BikeNetKit! 
 
 ## Development setup
 
