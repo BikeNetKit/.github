@@ -59,7 +59,7 @@ Before creating a new enhancement, please open a feature request issue or ask in
 
 TLDR: **No AI contributions accepted.**
 
-The goal of BikeNetKit is for people - researchers, software developers - to create tools for people - planners, researchers, engaged citizens. This goal necessitates a collaborative effort by a human community with limited resources. The maintainers of this community should not be burdened with reviews and technical debts of "AI slop" code, apart from [many other problems associated with such code](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html). 
+The goal of BikeNetKit is for people - researchers, software developers - to create tools for people - planners, researchers, engaged citizens. This goal necessitates a collaborative effort by a human community with limited resources. The maintainers of this community should not be burdened with reviews and technical/legal debts of "AI slop" code, apart from [many other problems associated with such code](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html). 
 
 Therefore, BikeNetKit does not accept contributions/comments by or with assistance of large language models (LLMs)/generative AI tools. Maintainers may close issues, reject pull requests, or delete comments without explanation if they suspect such an origin.[^1] We are open to revising this policy at a later date, in case new tools appear that mitigate the problems of existing tools.
 
