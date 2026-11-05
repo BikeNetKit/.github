@@ -1,7 +1,9 @@
 [head]
-We just launched https://bikenetkit.org/ - The digital toolkit for bicycle networks! 🚲🕸️
+We just launched https://bikenetkit.org - The digital toolkit for bicycle networks! 🚲🕸️
 
-Where should a bike network grow? Which gaps should we close first? #BikeNetKit lets you explore such questions in a data-informed way. This platform and software is a culmination of the last 8 years of our research. 🧵
+Where should a bike network grow? Which gaps should we close first? Explore it yourself in your city! 412 cities available.
+
+The #BikeNetKit platform and software is a culmination of the last 8 years of our research..🧵
 [bnk.mp4, alt="Demo showcasing bikenetkit.org"]
 
 
@@ -12,7 +14,7 @@ Even Copenhagen needs better infrastructure: https://www.youtube.com/watch?v=TJJ
 
 
 [citizens takeaway]
-If you are a citizen, #BikeNetKit lets you create a better vision of your city where safe cycling is finally possible. Use our Take Action button at https://bikenetkit.org/ to explore your city's initiatives, contact your city, or join your local cycling organization!
+If you are a citizen, #BikeNetKit lets you create a better vision of your city where safe cycling is finally possible. Use our Take Action button at https://bikenetkit.org to explore your city's initiatives, contact your city, or join your local cycling organization!
 [takeaction.png, alt="Take action button and panel, leading to the city's cycling initiatives, the contact pages of the city and the country's transport ministry, and the website of the local cycling organization"]
 
 
@@ -32,7 +34,7 @@ We would love for #BikeNetKit to grow into a sustained community effort to impro
 
 
 [credits people]
-BikeNetKit is based on the research of 14 scientists over the years, implemented by a team of 6 people: https://github.com/BikeNetKit#software-development. The fantastic visualization at https://bikenetkit.org/ was implemented by design-guru Moritz Stefaner. Many more tested and helped us in many ways - Thank you! ❤️
+BikeNetKit is based on the research of 14 scientists over the years, implemented by a team of 6 people: https://github.com/BikeNetKit#software-development. The fantastic visualization at https://bikenetkit.org was implemented by design-guru Moritz Stefaner. Many more tested and helped us in many ways - Thank you! ❤️
 [people_bikenetkit.png, alt="The main people behind BikeNetKit"]
 
 
