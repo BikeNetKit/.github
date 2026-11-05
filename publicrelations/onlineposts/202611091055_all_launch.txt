@@ -42,3 +42,14 @@ BikeNetKit is based on the research of 14 scientists over the years, implemented
 #BikeNetKit is enabled through the generous funding by Innovation Danmark and our EU project JUST STREETS. Finally, shoutout to the fantastic tools OSMnx/GeoPandas & Svelte/MapLibre/Protomaps + data from OpenStreetMap and Paris en Selle which made all this possible.
 [logo_innovationfund.png, alt="Innovation Fund Denmark"]
 [logo_juststreets.png, alt="JUST STREETS"]
+
+
+[connect]
+Connect with us on other platforms:
+LinkedIn: https://www.linkedin.com/company/bikenetkit
+Mastodon: https://fosstodon.org/@bikenetkit
+BlueSky: https://bsky.app/profile/bikenetkit.bsky.social
+Youtube: https://www.youtube.com/@BikeNetKit
+
+Questions? See our FAQ: https://faq.bikenetkit.org
+Enjoy #BikeNetKit!
