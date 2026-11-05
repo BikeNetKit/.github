@@ -24,7 +24,7 @@ If you are a planner, #BikeNetKit provides you data-informed decision support. L
 
 
 [philosophy]
-#BikeNetKit is free and open-source. It provides cities with tools they can adapt, improve and reuse, rather than locking them into a dependency on proprietary systems. By making our methods transparent and reproducible, we hope to strengthen local capacity and support better long-term planning. Also enabling citizen science.
+#BikeNetKit is free and open-source. It provides cities with tools they can adapt, improve and reuse, rather than locking them into a dependency on proprietary systems. We hope to strengthen local capacity and support better long-term planning. Also enabling citizen science.
 [activists.jpg, alt="Climate activists"]
 
 
@@ -39,17 +39,20 @@ BikeNetKit is based on the research of 14 scientists over the years, implemented
 
 
 [credits rest]
-#BikeNetKit is enabled through the generous funding by Innovation Danmark and our EU project JUST STREETS. Finally, shoutout to the fantastic tools OSMnx/GeoPandas & Svelte/MapLibre/Protomaps + data from OpenStreetMap and Paris en Selle which made all this possible.
+#BikeNetKit is enabled through the generous funding by Innovation Danmark and our EU project JUST STREETS, developed by NERDS.
+
+Finally, shoutout to the fantastic tools OSMnx/GeoPandas & Svelte/MapLibre/Protomaps + data from OpenStreetMap and Paris en Selle which made all this possible.
 [logo_innovationfund.png, alt="Innovation Fund Denmark"]
 [logo_juststreets.png, alt="JUST STREETS"]
+[logo_nerds.png, alt="NERDS"]
 
 
 [connect]
 Connect with us on other platforms:
+Youtube: https://www.youtube.com/@BikeNetKit
 LinkedIn: https://www.linkedin.com/company/bikenetkit
 Mastodon: https://fosstodon.org/@bikenetkit
 BlueSky: https://bsky.app/profile/bikenetkit.bsky.social
-Youtube: https://www.youtube.com/@BikeNetKit
 
 Questions? See our FAQ: https://faq.bikenetkit.org
 Enjoy #BikeNetKit!
