@@ -25,11 +25,11 @@ As exported data also sometimes need to be imported in larger pipelines, we have
 `<city>-<tool>-<algorithm>-<layer>[-<variant>].fileextension`, lowercase, single extension.
 Example: `amsterdam_nl-growbikenet-betweenness-grid-with_bikenw.geojson`
 
-For generating slugs from names, use our slugifier function `slugify()`, for now implemented here (to be moved to BikeNetLib): https://github.com/BikeNetKit/GrowBikeNet/blob/main/growbikenet/functions.py
+For generating slugs from names, use our slugifier function `slugify()` implemented in [BikeNetLib](https://github.com/BikeNetKit/BikeNetLib)'s `io` module.
 
 ## Underscores
 
-Use leading underscores for names of functions and constants to show if they are meant to be internal to a specific package or so technical/auxiliary that they should not be accessed by users.
+Use leading underscores for names of functions and constants to signify if they are meant to be internal to a specific package or so technical/auxiliary that they should not be accessed by users.
 
 ## Docstrings
 

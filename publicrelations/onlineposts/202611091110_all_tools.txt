@@ -1,0 +1,57 @@
+[head]
+#BikeNetKit consists of 5 tools: GrowBikeNet, LinkBikeNet, FixBikeNet, SortBikeNet, superblockify. They have different use cases..🧵
+[bnk.mp4, alt="Demo showcasing bikenetkit.org"]
+
+
+[gbn]
+GrowBikeNet answers: Where should a bike network grow? 
+
+The aim is to cover most of the city, or many points of interest like rail stations or schools. This aim is achieved by the placement of seed points, which are then linked. Works best for underdeveloped cities like US cities. Rendered example: Podgorica.
+
+More info: https://bikenetkit.org/growbikenet
+[gbn_podgorica.mp4, alt="GrowBikeNet growing a bike network in Podgorica, Montenegro"]
+
+
+[lbn]
+LinkBikeNet answers: How can we connect the pieces of an existing bike network?
+
+Instead of triangulating and building for an area like GrowBikeNet, LinkBikeNet focuses only on connecting the fragmented pieces of the existing bicycle network. Works best for somewhat developed cities like Budapest.
+
+More info: https://bikenetkit.org/linkbikenet
+[lbn_budapest.mp4, alt="LinkBikeNet linking the bike network of Budapest, Hungary"]
+
+
+[fbn]
+FixBikeNet answers: Which gaps should we close first?
+
+The result is an actionable, ranked list of surgical infrastructure investments that would most effectively improve network connectivity for the largest number of cycled kilometers. Works best for well developed cities like Copenhagen.
+
+More info: https://bikenetkit.org/fixbikenet
+[fbn_copenhagen.mp4, alt="FixBikeNet fixing the bike network of Copenhagen, Denmark"]
+
+
+[sbn]
+SortBikeNet answers: In what order should we build a planned bike network?
+
+The goal is to arrive at a functional network as soon as possible, covering the city well with direct routes. Works only for Paris where workable data is available.
+
+More info: https://bikenetkit.org/sortbikenet
+[sbn_paris.mp4, alt="SortBikeNet sorting a bike network in Paris, France"]
+
+
+[sb]
+superblockify answers: How can we create calmer neighborhoods by reorganizing through-traffic?
+
+The result is superblock-based partitions of street networks which could be turned into "Superblocks". Works for most cities, example Vienna.
+
+More info: https://bikenetkit.org/superblockify
+[sb_vienna.mp4, alt="superblockify superblockifying the street network of Vienna, Austria"]
+
+
+[data]
+The default data of #BikeNetKit comes from #OpenStreetmap. However, our tools allow plenty of customization for data & simulation:
+
+Reprioritize growth with traffic crash data: https://docs.bikenetkit.org/GrowBikeNet/usage_06_data_imports_for_prioritizing_growth
+Reprioritize gaps with citizen survey data: https://docs.bikenetkit.org/FixBikeNet/usage_04_data_imports_for_prioritizing_gaps
+[gbn_reprio_turin.png, alt="Repriotizing Turin's bike network growth with cyclist crash data (red dots)"]
+[fbn_reprio_copenhagen.png, alt="Repriotizing Copenhagen's bike network gap identification with citizen survey data (red dots)"]
