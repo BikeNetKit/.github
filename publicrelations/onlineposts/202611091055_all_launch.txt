@@ -34,7 +34,7 @@ We would love for #BikeNetKit to grow into a sustained community effort to impro
 
 
 [credits people]
-BikeNetKit is based on the research of 14 scientists over the years, implemented by a team of 6 people: https://github.com/BikeNetKit#software-development. The fantastic visualization at https://bikenetkit.org was implemented by design-guru Moritz Stefaner. Many more tested and helped us in many ways - Thank you! ❤️
+BikeNetKit is based on the research of 17 great scientists over the years, implemented by a team of 6 at NERDS: https://github.com/BikeNetKit#software-development. The fantastic visualization at https://bikenetkit.org was implemented by design-guru Moritz Stefaner. Many more tested and helped us in many ways - Thank you! ❤️
 [people_bikenetkit.png, alt="The main people behind BikeNetKit"]
 
 
