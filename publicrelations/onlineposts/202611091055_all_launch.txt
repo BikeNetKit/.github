@@ -39,7 +39,7 @@ BikeNetKit is based on the research of 14 scientists over the years, implemented
 
 
 [credits rest]
-#BikeNetKit is enabled through the generous funding by Innovation Danmark and our EU project JUST STREETS, developed by NERDS.
+#BikeNetKit is enabled through the generous funding by Innovation Fund Danmark and our EU project JUST STREETS, developed by NERDS.
 
 Finally, shoutout to the fantastic tools OSMnx/GeoPandas & Svelte/MapLibre/Protomaps + data from OpenStreetMap and Paris en Selle which made all this possible.
 [logo_innovationfund.png, alt="Innovation Fund Denmark"]
