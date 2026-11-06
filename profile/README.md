@@ -55,7 +55,7 @@ Development of BikeNetKit is supported by the [Innovation Fund Denmark](https://
 <table><tr><td valign="center"><a href="https://github.com/mszell"><img src="https://avatars.githubusercontent.com/u/9054982?s=120" width="60"></td><td valign="center"><a href="https://github.com/mszell">Michael Szell</a></td></tr></table>
 
 ### Based on research by
-Federico Battiston, Carlson M. Büth, Tiago Cunha, Ghourab Ghoshal, Astrid Gühnemann, Gerardo Iñiguez, Sayat Mimar, Luis G. Natera Orozco, Tyler Perlman, Clément Sebastiao, Roberta Sinatra, Michael Szell, Ane R. Vierø, Anastassia Vybornova
+Federico Battiston, Carlson M. Büth, Tiago Cunha, Pietro Folco, Laetitia Gauvin, Ghourab Ghoshal, Astrid Gühnemann, Gerardo Iñiguez, Sayat Mimar, Luis G. Natera Orozco, Tyler Perlman, Clément Sebastiao, Roberta Sinatra, Michael Szell, Michele Tizzoni, Ane R. Vierø, Anastassia Vybornova
 
 ### Special thanks to
 *Our beta-testers*: Elisabeth Meze, Christos Konstantinou, Christoph Steinacker, António Cunha Ferreira, João Teixeira; *Logo*: Andreas Brietzke; *Technical support*: Jacob Aarup Dalsgaard, Peter Brodersen; *Dissemination support*: Rune Koldborg Jensen, Theis Duelund Jensen, Rina de Place Bjørn, Pola Henderson; *Funding support*: Thomas Hørdam, Louise Eltard-Larsen, Peter Ibsen, Christian Marcus; *Data*: All OpenStreetMap contributors; Paris en Selle
