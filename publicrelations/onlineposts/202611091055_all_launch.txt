@@ -1,0 +1,58 @@
+[head]
+We just launched https://bikenetkit.org - The digital toolkit for bicycle networks! 🚲🕸️
+
+Where should a bike network grow? Which gaps should we close first? Explore it yourself in your city! 412 cities available.
+
+The #BikeNetKit platform and software is a culmination of the last 8 years of our research..🧵
+[bnk.mp4, alt="Demo showcasing bikenetkit.org"]
+
+
+[explainer]
+What is #BikeNetKit? Let us explain: https://www.youtube.com/watch?v=sI1AtFLUdks
+
+Even Copenhagen needs better infrastructure: https://www.youtube.com/watch?v=TJJGxs8fGLc
+
+
+[citizens takeaway]
+If you are a citizen, #BikeNetKit lets you create a better vision of your city where safe cycling is finally possible. Use our Take Action button at https://bikenetkit.org to explore your city's initiatives, contact your city, or join your local cycling organization!
+[takeaction.png, alt="Take action button and panel, leading to the city's cycling initiatives, the contact pages of the city and the country's transport ministry, and the website of the local cycling organization"]
+
+
+[planners takeaway]
+If you are a planner, #BikeNetKit provides you data-informed decision support. Let us know if our tools are useful for you, and how we could improve them! You'll need to know Python to run them: https://github.com/BikeNetKit
+[gbn_podgorica.mp4, alt="GrowBikeNet growing a bike network in Podgorica, Montenegro"]
+
+
+[philosophy]
+#BikeNetKit is free and open-source. It provides cities with tools they can adapt, improve and reuse, rather than locking them into a dependency on proprietary systems. We hope to strengthen local capacity and support better long-term planning. Also enabling citizen science.
+[activists.jpg, alt="Climate activists"]
+
+
+[call for dev support]
+If you are proficient with Python, help us test, polish and develop our software at https://github.com/BikeNetKit
+We would love for #BikeNetKit to grow into a sustained community effort to improve bike/urban network research/analysis/planning.
+
+
+[credits people]
+BikeNetKit is based on the research of 17 great scientists over the years, implemented by a team of 6 at NERDS: https://github.com/BikeNetKit#software-development. The fantastic visualization at https://bikenetkit.org was implemented by design-guru Moritz Stefaner. Many more tested and helped us in many ways - Thank you! ❤️
+[people_bikenetkit.png, alt="The main people behind BikeNetKit"]
+
+
+[credits rest]
+#BikeNetKit is enabled through the generous funding by Innovation Fund Danmark and our EU project JUST STREETS, developed by NERDS.
+
+Finally, shoutout to the fantastic tools OSMnx/GeoPandas & Svelte/MapLibre/Protomaps + data from OpenStreetMap and Paris en Selle which made all this possible.
+[logo_innovationfund.png, alt="Innovation Fund Denmark"]
+[logo_juststreets.png, alt="JUST STREETS"]
+[logo_nerds.png, alt="NERDS"]
+
+
+[connect]
+Connect with us on other platforms:
+Youtube: https://www.youtube.com/@BikeNetKit
+LinkedIn: https://www.linkedin.com/company/bikenetkit
+Mastodon: https://fosstodon.org/@bikenetkit
+BlueSky: https://bsky.app/profile/bikenetkit.bsky.social
+
+Questions? See our FAQ: https://faq.bikenetkit.org
+Enjoy #BikeNetKit!
