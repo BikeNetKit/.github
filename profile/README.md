@@ -27,8 +27,9 @@ The tools are packaged and mostly feature-complete & usable, but also under cont
 | [<img src="https://raw.githubusercontent.com/BikeNetKit/.github/main/profile/_static/wordmark_sortbikenet.svg" alt="SortBikeNet" height="15"/>](https://github.com/BikeNetKit/SortBikeNet) | 0.6.0 | 
 | [<img src="https://raw.githubusercontent.com/BikeNetKit/.github/main/profile/_static/wordmark_bikenetlib.svg" alt="BikeNetLib" height="15"/>](https://github.com/BikeNetKit/BikeNetLib) | 0.8.1 | 
 
-## 🙋 FAQ & Events
-For more explanations, see our Frequently Asked Questions at: [faq.bikenetkit.org](https://faq.bikenetkit.org)  
+## 🙋 FAQ, Docs & Events
+For more explanations, see our Frequently Asked Questions at [faq.bikenetkit.org](https://faq.bikenetkit.org)  
+For an overview of all documentations, see [docs.bikenetkit.org](https://docs.bikenetkit.org)  
 For a list of events around `BikeNetKit`, see our [Events page](../publicrelations/events/events.md).
 
 ## 💰 Supported by
