@@ -5,10 +5,11 @@ people like you that make BikeNetKit such a great toolkit.
 
 ## Table of contents
 
-- [Code of Conduct](#code-of-conduct)
-- [How Can I Contribute?](#how-can-i-contribute)
+- [Code of conduct](#code-of-conduct)
+- [How can I contribute?](#how-can-i-contribute)
 - [AI usage policy](#ai-usage-policy)
-- [Pull Request Process](#pull-request-process)
+- [Development setup](#development-setup)
+- [Pull request process](#pull-request-process)
 
 ## Code of conduct
 
@@ -93,9 +94,13 @@ If you update docs, build them locally by running
 and check in the `docs/build` folder that the output is as expected.
 
 
-## Pull Request Process
+## Pull request process
 
-### Before Submitting
+### Before development
+
+Before creating a new enhancement, please open a feature request issue or ask in an existing issue to discuss first, to make sure such a feature aligns with our visions and is not already being implemented.
+
+### Before submitting
 
 Update the documentation if you have changed or added features.
 
@@ -109,7 +114,7 @@ Update the documentation if you have changed or added features.
 
 4. Wait for review. We aim to respond within 7 days.
 
-### PR Checklist
+### PR checklist
 
 - [ ] My code follows the project's style guidelines
 - [ ] I have performed a self-review of my own code
@@ -120,7 +125,7 @@ Update the documentation if you have changed or added features.
 - [ ] New and existing tests pass locally
 
 
-### Code Style
+### Code style
 
 - Use prettier and ruff for formatting via pre-commit ([config](pre-commit-config.yaml) included)
 - Write self-documenting code with meaningful variable names
