@@ -25,7 +25,7 @@ If you are a planner, #BikeNetKit provides you data-informed decision support. L
 
 [philosophy]
 #BikeNetKit is free and open-source. It provides cities with tools they can adapt, improve and reuse, rather than locking them into a dependency on proprietary systems. We hope to strengthen local capacity and support better long-term planning. Also enabling citizen science.
-[activists.jpg, alt="Climate activists"]
+[activists.jpg, alt="Climate activists holding a banner with a bike saying THIS MACHINE FIGHTS CLIMATE CHANGE"]
 
 
 [call for dev support]

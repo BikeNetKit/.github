@@ -1,10 +1,11 @@
 Belated #introduction: 👋 Hi, we are #BikeNetKit - The digital toolkit for bicycle networks! 🚲🕸️
 
 After 8 years of research, we just launched at: https://bikenetkit.org
+
 Our contribution to society is free, open-source software to improve cities, from car-centric to liveable.
 
 If you know Python, help us polish and develop our tools at https://github.com/BikeNetKit
-We would love for #BikeNetKit to grow into a sustained community effort. ❤️
+We would love to grow into a sustained community effort. ❤️ Using #NoAI.
 
 Questions? https://faq.bikenetkit.org
 Enjoy the ride! 🚲
