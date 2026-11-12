@@ -29,7 +29,7 @@ Fixes #(issue number)
 
 ## Checklist
 
-- [ ] I have read the [contributing guidelines](CONTRIBUTING.md) and have run the repository's pre-commit hooks and tests locally.
+- [ ] I have read the [contributing guidelines](https://github.com/BikeNetKit/.github/blob/main/CONTRIBUTING.md) and have run the repository's pre-commit hooks and tests locally.
 - [ ] If this is an enhancement, I had it discussed first in a feature request issue.
 
 
