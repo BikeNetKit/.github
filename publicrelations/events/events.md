@@ -5,7 +5,7 @@ This page lists all public events around BikeNetKit - both past and upcoming.
 
 |      Date   |      Venue       | Title               | Type            | Materials                   |
 |------|------------------|----------------------------------------|---------------------------------------|----------------------------------------|
-| 2026&#x2011;11&#x2011;19 | *Kortdage 2026*, Aalborg (DK)           | BikeNetKit: Open source bicycle network software | Talk |  [Abstract](https://kortdage.dk/godkendte-abstracts/?aid=1278) |
+| 2026&#x2011;11&#x2011;20 | *Kortdage 2026*, Aalborg (DK)           | BikeNetKit: Open source bicycle network software | Talk |  [Abstract](https://kortdage.dk/godkendte-abstracts/?aid=1278) |
 | 2026&#x2011;11&#x2011;04 | *Digital Tech Summit 2026*, Copenhagen (DK)           | BikeNetKit: Open Bicycle Network Algorithms for boosting the Green Transition of European Cities | Talk | [Slides](https://michael.szell.net/downloads/talk_szell2026bob.pdf) [Abstract](https://event.ing.dk/dts6/session/4412917/bikenetkit-open-bicycle-network-algorithms-for-boosting-the-green-transition-of-european-cities) |
 | 2026&#x2011;10&#x2011;08 | *D3A 2026*, Nyborg (DK)          | Hands-on session: BikeNetKit | Workshop | [Slides](https://michael.szell.net/downloads/talk_knepper2026bdo.pdf) [Tutorial](https://github.com/BikeNetKit/tutorials#tutorial-1-introduction-to-growbikenet-15-min) |
 | 2026&#x2011;09&#x2011;18 | *CRBAM 2026*, Ghent (BE)           | BikeNetKit: Developing an open-source bicycle network software suite for urban planners | Talk | [Abstract](https://pretalx.com/crbam-2026/talk/QAZLGF/) |
